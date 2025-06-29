@@ -1,1 +1,0 @@
-const o="Booking Request Received",t="Thank you for your request. I will contact you shortly to confirm your booking.",e="For any questions, please send an email to <mailTo>{{email}}</mailTo>.",n={title:o,subtitle:t,contact:e};export{e as contact,n as default,t as subtitle,o as title};

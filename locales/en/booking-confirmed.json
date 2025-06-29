@@ -1,0 +1,6 @@
+{
+    "title": "Booking Confirmed",
+    "description": "Your booking has been confirmed. We will be in touch shortly to discuss your needs.",
+    "questions": "For any questions, please contact me at {{email}}",
+    "button": "Back to Home"
+}

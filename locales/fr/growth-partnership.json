@@ -1,0 +1,158 @@
+{
+  "faq": {
+    "title": "FAQs",
+    "subtitle": "Voici les réponses aux questions les plus fréquentes concernant nos services.",
+    "items": [
+      {
+        "question": "Combien de temps ?",
+        "answer": "La création de votre site peut prendre jusqu'à 8 semaines. Cela dépend de la complexité de votre projet. Nous vous tenons informé à chaque étape."
+      },
+      {
+        "question": "Comment se passe le lancement ?",
+        "answer": "Après le développement, nous effectuons des tests approfondis. Une fois validé, nous procédons au lancement. Vous recevrez également une formation pour gérer votre site."
+      },
+      {
+        "question": "Quel support est offert ?",
+        "answer": "Nous offrons un support continu après le lancement. Vous pouvez nous contacter pour toute question ou assistance. Notre équipe est là pour vous aider."
+      },
+      {
+        "question": "Puis-je modifier mon site ?",
+        "answer": "Oui, vous pouvez apporter des modifications à votre site. Nous vous fournirons les outils nécessaires pour le faire facilement. Si besoin, notre équipe peut vous assister."
+      },
+      {
+        "question": "Y a-t-il des frais cachés ?",
+        "answer": "Non, tous les coûts sont transparents. Nous vous fournirons un devis détaillé avant de commencer. Pas de surprises, juste des résultats."
+      }
+    ],
+    "contactTitle": "Still have questions?",
+    "contactSubtitle": "N'hésitez pas à nous contacter.",
+    "contactButton": "Contact"
+  },
+  "trustSection": {
+    "subtitle": "Confiance",
+    "title": "Pourquoi travailler avec moi ?",
+    "description": "Avec une expertise en développement digital, je m'engage à transformer votre présence en ligne. Mon approche personnalisée garantit que chaque projet répond à vos besoins spécifiques et vous aide à atteindre vos objectifs.",
+    "buttons": {
+      "learnMore": "En savoir plus",
+      "contact": "Contact"
+    }
+  },
+  "growthOfferSection": {
+    "subtitle": "Offre",
+    "title": "Transformez vos visiteurs en clients fidèles",
+    "description": "En seulement 8 semaines, je vous aide à créer un site web performant qui attire plus de clients. Ensemble, nous établirons une stratégie pour maximiser vos rendez-vous et fidéliser votre clientèle.",
+    "benefits": [
+      {
+        "title": "Bénéfices de notre collaboration",
+        "description": "Augmentez vos rendez-vous en ligne grâce à un site optimisé."
+      },
+      {
+        "title": "Un site qui travaille pour vous",
+        "description": "Profitez d'un accompagnement personnalisé à chaque étape."
+      },
+      {
+        "title": "Des résultats concrets et mesurables",
+        "description": "Obtenez une visibilité accrue avec des landing pages optimisées."
+      }
+    ],
+    "buttons": {
+      "learnMore": "En savoir plus",
+      "book": "Réserve"
+    }
+  },
+  "processSection": {
+    "title": "Découvre comment fonctionne notre processus d'accompagnement personnalisé",
+    "steps": [
+      {
+        "title": "Un parcours clair pour transformer ta pratique",
+        "description": "Nous te guidons à chaque étape pour garantir ton succès.",
+        "button": "Commencer"
+      },
+      {
+        "title": "Étape 1 : Réserve ta consultation gratuite",
+        "description": "Prends rendez-vous pour discuter de tes besoins spécifiques.",
+        "button": "Réserve"
+      },
+      {
+        "title": "Étape 2 : Passons à l'action ensemble",
+        "description": "Nous mettons en œuvre les solutions adaptées pour ta croissance.",
+        "button": "Agir"
+      }
+    ]
+  },
+  "featuresSection": {
+    "subtitle": "Fonctionnalités",
+    "title": "Les piliers de notre offre unique",
+    "description": "Découvrez comment nos services peuvent transformer votre pratique. Chaque fonctionnalité est conçue pour répondre à vos besoins spécifiques et améliorer votre efficacité.",
+    "features": [
+      {
+        "title": "Optimisation de votre présence en ligne",
+        "description": "Améliorez votre visibilité grâce à des stratégies SEO efficaces."
+      },
+      {
+        "title": "Automatisation de vos processus marketing",
+        "description": "Libérez du temps en automatisant vos tâches répétitives."
+      },
+      {
+        "title": "Création de sites web performants",
+        "description": "Obtenez un site web qui attire et convertit."
+      },
+      {
+        "title": "Accompagnement personnalisé tout au long du processus",
+        "description": "Bénéficiez d'un soutien adapté à vos besoins spécifiques."
+      }
+    ],
+    "buttons": {
+      "learnMore": "En savoir plus",
+      "contact": "Contact"
+    }
+  },
+  "painPointsSection": {
+    "subtitle": "Frustrations",
+    "title": "Ton quotidien pourrait être plus simple, non ?",
+    "description": "De nombreux professionnels de la santé se sentent dépassés par la gestion de leur présence en ligne. Entre les rendez-vous, les suivis et les tâches administratives, il est difficile de tout gérer efficacement.",
+    "points": [
+      {
+        "title": "Problèmes courants",
+        "description": "Tu ne sais pas si tu es visible en ligne ?"
+      },
+      {
+        "title": "Manque de temps",
+        "description": "Tu as du mal à fidéliser tes clients ?"
+      }
+    ],
+    "buttons": {
+      "discover": "Découvre",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "heroSection": {
+    "title": "De visiteurs à clients fidèles",
+    "description": "En 8 semaines, je crée un site web et une structure pour t'aider à obtenir plus de rendez-vous et fidéliser tes clients. Transforme ton activité et maximise ton potentiel avec une solution sur mesure.",
+    "buttons": {
+      "book": "Réserve",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "footer": {
+    "links": {
+      "about": "À propos",
+      "services": "Services",
+      "contact": "Contactez-nous",
+      "blog": "Blog",
+      "testimonials": "Témoignages"
+    },
+    "legal": {
+      "copyright": "© 2024 Relume. All rights reserved.",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions de service",
+      "cookies": "Paramètres des cookies"
+    }
+  },
+  "cta": {
+    "title": "Fais croître ta pratique maintenant",
+    "description": "Ne laisse pas passer cette opportunité de transformer ta pratique. Agis dès aujourd'hui pour bénéficier d'un accompagnement personnalisé et d'une visibilité accrue.",
+    "primaryButton": "Réserve",
+    "secondaryButton": "Contacte"
+  }
+} 

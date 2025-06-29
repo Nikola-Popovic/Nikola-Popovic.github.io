@@ -1,0 +1,207 @@
+{
+  "faq": {
+    "title": "FAQs",
+    "subtitle": "Voici les réponses aux questions fréquentes concernant l'alimentation de votre Agent IA.",
+    "items": [
+      {
+        "question": "Quel contenu est nécessaire?",
+        "answer": "Pour alimenter l'Agent IA, il est essentiel de fournir un contenu pertinent et varié. Cela inclut des FAQ, des scripts de conversation, et des informations sur vos services. Plus le contenu est riche, plus l'Agent sera efficace."
+      },
+      {
+        "question": "Est-ce sécurisé?",
+        "answer": "Oui, la sécurité est notre priorité. Nous utilisons des protocoles de cryptage avancés pour protéger vos données. Vous pouvez ainsi interagir avec l'Agent en toute confiance."
+      },
+      {
+        "question": "Comment ça fonctionne?",
+        "answer": "L'Agent IA fonctionne grâce à une analyse approfondie de votre contenu. Il intègre la technologie RAG pour fournir des réponses précises et contextuelles. Une fois configuré, il peut être déployé sur votre site web."
+      },
+      {
+        "question": "Peut-on le personnaliser?",
+        "answer": "Absolument, l'Agent IA est entièrement personnalisable. Vous pouvez ajuster son ton, ses réponses et son style de communication selon vos besoins. Cela garantit une expérience utilisateur cohérente avec votre marque."
+      },
+      {
+        "question": "Quel est le coût?",
+        "answer": "Le coût dépend de la complexité de l'Agent et des fonctionnalités souhaitées. Nous offrons des options de tarification flexibles pour répondre à vos besoins. Contactez-nous pour un devis personnalisé."
+      }
+    ],
+    "contactTitle": "Des questions restantes?",
+    "contactSubtitle": "N'hésitez pas à nous contacter!",
+    "contactButton": "Contact"
+  },
+  "ragFeatures": {
+    "title": "Des Réponses Contextuelles Ultra-Précises",
+    "subtitle": "Précision",
+    "description": "La technique RAG permet d'améliorer la pertinence des réponses fournies par l'agent AI. Grâce à cette méthode, vos patients reçoivent des informations précises et adaptées à leurs besoins.",
+    "features": [
+      {
+        "title": "Pourquoi Choisir RAG ?",
+        "description": "Optimisez l'interaction avec vos patients grâce à des réponses instantanées et pertinentes."
+      },
+      {
+        "title": "Fonctionnement de RAG",
+        "description": "Intégrez facilement RAG pour transformer l'expérience patient sur votre plateforme numérique."
+      },
+      {
+        "title": "Avantages de RAG",
+        "description": "Réduisez les délais de réponse et améliorez la satisfaction patient avec des réponses adaptées."
+      },
+      {
+        "title": "Mise en Œuvre",
+        "description": "Facilitez l'intégration de RAG sur votre site avec notre assistance technique dédiée."
+      }
+    ],
+    "buttons": {
+      "start": "Démarrer",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "efficiencySection": {
+    "subtitle": "Efficacité",
+    "title": "Optimise ton temps avec un agent conversationnel intelligent",
+    "description": "Un agent IA réduit les interruptions en gérant les questions fréquentes. Cela te permet de te concentrer sur des tâches à plus forte valeur ajoutée.",
+    "features": [
+      {
+        "title": "Automatisation des réponses pour un meilleur service",
+        "description": "Offre une assistance continue, même en dehors des heures de bureau."
+      },
+      {
+        "title": "Bénéficie de réponses contextuelles précises sur ton entreprise.",
+        "description": "Utilise la génération augmentée par récupération pour des interactions enrichissantes."
+      },
+      {
+        "title": "Optimise ton temps et améliore l'expérience patient",
+        "description": "Réduis les interruptions et concentre-toi sur les soins grâce à l'automatisation."
+      }
+    ],
+    "buttons": {
+      "start": "Démarrer",
+      "contact": "Contact"
+    }
+  },
+  "healthPracticeSection": {
+    "title": "Crée un Agent de Conversation AI pour Ta Pratique de Santé",
+    "description": "Les agents AI révolutionnent la manière dont les professionnels de santé interagissent avec leurs patients. Ils permettent une assistance continue et personnalisée, réduisant ainsi la charge de travail.",
+    "features": [
+      {
+        "title": "Pourquoi Choisir",
+        "description": "Un Agent conversationnel dédié peut gérer les questions fréquentes et automatiser ton support patient."
+      },
+      {
+        "title": "Fonctionnement",
+        "description": "Analyse de ton contenu et intégration RAG pour des réponses précises et contextuelles."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à Transformer Votre Pratique avec l'IA?",
+    "description": "Découvrez comment notre solution d'agent conversationnel peut améliorer l'expérience de vos patients et optimiser votre flux de travail.",
+    "primaryButton": "Commencer Maintenant",
+    "secondaryButton": "En Savoir Plus"
+  },
+  "trustSection": {
+    "title": "Construire la Confiance avec l'IA",
+    "description": "Notre solution d'agent conversationnel est conçue pour renforcer la confiance entre les professionnels de santé et leurs patients.",
+    "features": [
+      {
+        "title": "Sécurité des Données",
+        "description": "Protection avancée des informations sensibles avec des protocoles de cryptage de pointe."
+      },
+      {
+        "title": "Conformité Réglementaire",
+        "description": "Respect des normes de confidentialité et des réglementations du secteur de la santé."
+      },
+      {
+        "title": "Transparence",
+        "description": "Communication claire sur le fonctionnement de l'IA et l'utilisation des données."
+      }
+    ],
+    "learnMore": "En savoir plus"
+  },
+  "integrationProcess": {
+    "subtitle": "Processus",
+    "title": "Comment Fonctionne l'Intégration de RAG",
+    "description": "L'intégration RAG commence par une analyse approfondie de ton contenu. Cela permet de personnaliser l'agent pour répondre efficacement aux besoins de tes patients.",
+    "steps": [
+      {
+        "title": "Étapes de Mise en Place de l'Agent",
+        "description": "Nous configurons l'agent selon ton style de communication."
+      },
+      {
+        "title": "Intégration sur Ton Site ou Plateforme",
+        "description": "L'agent est ensuite déployé sur ta plateforme préférée."
+      },
+      {
+        "title": "Optimisation Continue et Suivi des Performances",
+        "description": "Nous assurons un suivi régulier pour optimiser les réponses."
+      }
+    ],
+    "buttons": {
+      "start": "Démarrer",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "transformationSection": {
+    "subtitle": "Efficacité",
+    "title": "Transformez votre pratique avec un agent AI",
+    "description": "Un Agent conversationnel dédié peut gérer les questions fréquentes, relayer des informations critiques, et automatiser votre support patient à toute heure. Offrez à vos patients une assistance instantanée et personnalisée.",
+    "stats": [
+      {
+        "value": "40%",
+        "description": "Améliorez l'engagement patient avec une assistance continue."
+      },
+      {
+        "value": "40%",
+        "description": "Réduisez les interruptions et concentrez-vous sur vos patients."
+      }
+    ],
+    "buttons": {
+      "discover": "Découvrir",
+      "contact": "Contact"
+    }
+  },
+  "heroSection": {
+    "title": "Obtiens un agent IA pour ta pratique",
+    "description": "Réduis les tâches répétitives et offre à tes patients une assistance 24/7 avec la technologie RAG pour des réponses personnalisées. Un Agent conversationnel dédié peut transformer l'expérience patient tout en optimisant ton temps.",
+    "buttons": {
+      "learnMore": "En savoir plus",
+      "contact": "Contact"
+    }
+  },
+  "imageMarqueeSection": {
+    "title": "Un Assistant Virtuel pour ta pratique",
+    "description": "Réduis les tâches répétitives et améliore l'engagement patient grâce à un agent AI. Profite de réponses contextuelles précises qui transforment ton approche de la santé.",
+    "buttons": {
+      "learnMore": "En savoir plus",
+      "contact": "Contact"
+    }
+  },
+  "footer": {
+    "links": {
+      "about": "À propos",
+      "services": "Services",
+      "contact": "Contactez-nous",
+      "blog": "Blog",
+      "testimonials": "Témoignages"
+    },
+    "legal": {
+      "copyright": "© 2024 Relume. All rights reserved.",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions de service",
+      "cookies": "Paramètres des cookies"
+    }
+  },
+  "navbar": {
+    "links": {
+      "home": "Accueil",
+      "services": "Services",
+      "about": "À propos",
+      "contact": "Contactez-nous",
+      "blog": "Blog",
+      "testimonials": "Témoignages",
+      "faq": "FAQ"
+    },
+    "buttons": {
+      "book": "Réserver"
+    }
+  }
+} 

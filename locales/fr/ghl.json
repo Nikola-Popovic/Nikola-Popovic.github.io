@@ -1,0 +1,31 @@
+{
+  "faq": {
+    "title": "FAQs",
+    "subtitle": "Économisez sur les frais en consolidant vos outils de gestion dans une seule plateforme.",
+    "items": [
+      {
+        "question": "Quels sont les avantages?",
+        "answer": "En consolidant vos outils, vous réduisez les coûts et simplifiez la gestion. Cela permet également de libérer du temps pour votre personnel, qui peut se concentrer sur les soins aux patients. De plus, vous bénéficiez d'une expérience utilisateur fluide."
+      },
+      {
+        "question": "Comment fonctionne l'automatisation?",
+        "answer": "L'automatisation permet de gérer les rappels de rendez-vous et les communications avec les patients sans intervention manuelle. Cela réduit les risques de non-présentation et améliore l'engagement des patients. Vous pouvez configurer des workflows personnalisés selon vos besoins."
+      },
+      {
+        "question": "Y a-t-il des frais?",
+        "answer": "Non, notre plateforme ne facture pas de frais supplémentaires par fournisseur. Vous payez un tarif fixe, quel que soit le nombre de praticiens dans votre équipe. Cela vous permet de planifier votre budget sans surprises."
+      },
+      {
+        "question": "Est-ce facile à utiliser?",
+        "answer": "Oui, notre interface est conçue pour être intuitive et conviviale. Nous offrons également une formation et un support pour vous aider à démarrer rapidement. Vous serez opérationnel en un rien de temps."
+      },
+      {
+        "question": "Quelles fonctionnalités incluez-vous?",
+        "answer": "Notre plateforme comprend la gestion des rendez-vous, des automatisations de marketing, et l'intégration avec QuickBooks. Vous aurez également accès à des outils de communication avancés pour interagir avec vos patients. Chaque fonctionnalité est conçue pour améliorer l'efficacité de votre pratique."
+      }
+    ],
+    "contactTitle": "Vous avez encore des questions?",
+    "contactSubtitle": "N'hésitez pas à nous contacter!",
+    "contactButton": "Contact"
+  }
+}

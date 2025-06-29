@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "eyebrow": "Avec notre approche IA d'Abord",
+    "title": "On ne fait pas que croître ton entreprise - ",
+    "animatedPhrases": [
+      "on t'en libère.",
+      "on multiplie ta productivité.",
+      "on te retire la tech de ton assiette."
+    ],
+    "description": "Concentre-toi sur ce qui compte vraiment — Nous, on construit les outils et stratégies pour automatiser le reste.",
+    "primaryButton": "Réserver ma consultation gratuite",
+    "secondaryButton": "Découvrir nos offres"
+  },
+  "aiCentered": {
+    "title": "On met l'IA au centre de {{everything}} ce qu'on fait.",
+    "everything": "tout",
+    "subtitle": "Ton partenaire de confiance pour devenir une entreprise IA-first."
+  },
+  "aiJourney": {
+    "header": "Prends une longueur d'avance avec notre parcours {{transformation}} en 3 étapes",
+    "transformation": "transformation IA",
+    "steps": [
+      {
+        "label": "Identifier",
+        "title": "Identifier",
+        "subtitle": "On t'aide à identifier les opportunités IA à fort impact et construire une stratégie de transformation IA étape par étape pour les concrétiser"
+      },
+      {
+        "label": "Former",
+        "title": "Former",
+        "subtitle": "On forme et accompagne ton équipe avec les bons outils et le savoir-faire pour intégrer l'IA dans toute ton organisation"
+      },
+      {
+        "label": "Développer",
+        "title": "Développer",
+        "subtitle": "On s'appuie sur notre vaste expérience et notre réseau pour développer des systèmes IA sur mesure qui vont multiplier ta productivité par 4"
+      }
+    ]
+  },
+  "approach": {
+    "title": "Prends une longueur d'avance avec l'IA",
+    "description": "On croit au travail intelligent, pas acharné. Notre approche se concentre sur la personnalisation et l'intégration des technologies modernes.",
+    "features": {
+      "speed": {
+        "title": "Rapidité et efficacité",
+        "description": "Mise en place rapide, dès une semaine, pour un impact immédiat sur ton entreprise."
+      },
+      "personalization": {
+        "title": "Personnalisation totale",
+        "description": "Des solutions sur mesure adaptées à tes besoins spécifiques et à ton entreprise."
+      }
+    }
+  },
+  "whyWorkWithMe": {
+    "title": "Pourquoi je ne suis pas comme les autres agences?",
+    "description": "Pendant que les agences traditionnelles facturent 120 heures pour ce qui peut être accompli en 20, moi je construis des systèmes IA qui font le travail pendant que tu te concentres sur ce qui compte vraiment. Plus de théâtre bureaucratique, plus de facturations gonflées - juste des résultats qui te donnent ta liberté.",
+    "primaryButton": "Contact",
+    "secondaryButton": "Réserver",
+    "stats": {
+      "years": {
+        "value": "4+",
+        "label": "Années d'expérience professionnelle"
+      },
+      "projects": {
+        "value": "15+",
+        "label": "Projets clients livrés"
+      },
+      "satisfaction": {
+        "value": "100%",
+        "label": "De clients qui récupèrent leur temps"
+      }
+    }
+  },
+  "cta": {
+    "title": "L'avenir appartient aux orchestrateurs",
+    "description": "La question n'est pas si l'IA va transformer ton industrie - c'est si tu vas mener cette transformation ou te faire dépasser.",
+    "primaryButton": "Je veux récupérer ma liberté"
+  }
+}

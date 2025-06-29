@@ -1,0 +1,7 @@
+{
+    "title": "Réservation confirmée",
+    "description": "Votre réservation a été confirmée. Nous vous contacterons sous peu pour discuter de vos besoins.",
+    "pleaseAddToCalenddar": "Veuillez ajouter la réservation à votre calendrier.",
+    "questions": "Pour toute question, veuillez me contacter à {{email}}",
+    "button": "Retour à la page d'accueil"
+}

@@ -1,0 +1,120 @@
+{
+  "header": {
+    "title": "Your Professional Website in Just 1 Week",
+    "description": "Specially designed for your healthcare practice — fast, efficient, and tailored to your needs. Don't waste any more time, update your online presence now.",
+    "buttons": {
+      "reserve": "Reserve",
+      "start": "Get Started"
+    }
+  },
+  "serviceIntroduction": {
+    "tag": "Speed",
+    "title": "Why Do I Offer This Service?",
+    "description": "I've noticed that many professionals invest significant amounts in websites that take months to materialize. My goal is to simplify this process with a fast and efficient approach, ensuring tangible results.",
+    "buttons": {
+      "learnMore": "Learn More",
+      "reserve": "Reserve"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Wait Months When You Can Have a Website in 7 Days?",
+    "description": "Traditional agencies often take weeks, even months, to finalize a website. For busy practitioners, every minute counts, and execution speed is essential to stay competitive."
+  },
+  "features": {
+    "title": "Designed For Your Practice: Everything You Need, Nothing You Don't",
+    "items": [
+      {
+        "title": "Features Tailored to Enhance Your Medical Practice Efficiently",
+        "description": "Each site is designed to meet the specific needs of your practice.",
+        "buttonText": "Discover"
+      },
+      {
+        "title": "Custom Design: A Style That Reflects and Represents You",
+        "description": "Layout adapted to your consultation style or specialty.",
+        "buttonText": "Explore"
+      },
+      {
+        "title": "Basic Optimizations: SEO, Speed, and Responsive Design Included",
+        "description": "Initial SEO optimization, fast loading times, responsive design for all devices.",
+        "buttonText": "Learn More"
+      }
+    ]
+  },
+  "pricing": {
+    "plans": [
+      {
+        "title": "Basic Plan",
+        "description": "Ideal for small practices",
+        "monthlyPrice": "$19/month",
+        "yearlyPrice": "$180/year",
+        "features": [
+          "Custom design",
+          "Essential pages included",
+          "Basic SEO optimization"
+        ]
+      },
+      {
+        "title": "Professional Plan",
+        "description": "For established practices",
+        "monthlyPrice": "$29/month",
+        "yearlyPrice": "$280/year",
+        "features": [
+          "Priority support",
+          "Advanced features",
+          "Regular updates",
+          "Personalized assistance"
+        ]
+      },
+      {
+        "title": "Enterprise Plan",
+        "description": "For large practices",
+        "monthlyPrice": "$49/month",
+        "yearlyPrice": "$480/year",
+        "features": [
+          "Dedicated project management",
+          "Performance analysis",
+          "Complete customization",
+          "API integration",
+          "Unlimited features"
+        ]
+      }
+    ]
+  },
+  "testimonial": {
+    "quote": "Thanks to this service, I was able to launch my site quickly and without stress. This allowed me to focus again on my patients.",
+    "author": "Marie Dupont",
+    "position": "Doctor, Health Clinic"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Is a 7-day website quality?",
+        "answer": "Yes, our process is designed to guarantee optimal quality. We have clear and structured steps. Each site is carefully checked before going live."
+      },
+      {
+        "question": "What is the total cost?",
+        "answer": "The cost depends on the chosen features. You only pay for what you need. This allows you to control your budget."
+      },
+      {
+        "question": "Can I add features?",
+        "answer": "Absolutely, we can easily add additional features to your site. This can be done at any time. Your site will evolve with your practice."
+      },
+      {
+        "question": "Are there any guarantees?",
+        "answer": "We offer a satisfaction guarantee. If you're not satisfied, we'll work with you until you are. Your success is our priority."
+      },
+      {
+        "question": "How does payment work?",
+        "answer": "Payment is made in several stages. A deposit is required to start. The balance is due upon site delivery."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Accelerate Your Online Presence",
+    "description": "In just 7 days, your practice will finally be in the spotlight and ready to shine.",
+    "buttons": {
+      "primary": "Start Your Transformation",
+      "secondary": "Get Started Now"
+    }
+  }
+} 

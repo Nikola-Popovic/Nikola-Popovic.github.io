@@ -1,0 +1,31 @@
+{
+  "faq": {
+    "title": "FAQs",
+    "subtitle": "Save on fees by consolidating your management tools into a single platform.",
+    "items": [
+      {
+        "question": "What are the advantages?",
+        "answer": "By consolidating your tools, you reduce costs and simplify management. This also frees up time for your staff to focus on patient care. Additionally, you benefit from a seamless user experience."
+      },
+      {
+        "question": "How does automation work?",
+        "answer": "Automation manages appointment reminders and patient communications without manual intervention. This reduces no-shows and improves patient engagement. You can set up custom workflows to suit your needs."
+      },
+      {
+        "question": "Are there any fees?",
+        "answer": "No, our platform does not charge additional fees per provider. You pay a fixed rate, regardless of the number of practitioners in your team. This allows you to plan your budget with no surprises."
+      },
+      {
+        "question": "Is it easy to use?",
+        "answer": "Yes, our interface is designed to be intuitive and user-friendly. We also provide training and support to help you get started quickly. You'll be up and running in no time."
+      },
+      {
+        "question": "What features are included?",
+        "answer": "Our platform includes appointment management, marketing automations, and integration with QuickBooks. You'll also have access to advanced communication tools to interact with your patients. Each feature is designed to improve your practice's efficiency."
+      }
+    ],
+    "contactTitle": "Still have questions?",
+    "contactSubtitle": "Feel free to contact us!",
+    "contactButton": "Contact"
+  }
+}

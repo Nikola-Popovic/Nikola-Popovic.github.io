@@ -1,0 +1,28 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "services": "Services",
+    "product": "Libsante",
+    "blog": "Blog",
+    "blogTooltip": "En construction...",
+    "reserve": "Réserver",
+    "servicesMenu": {
+      "oneWeekOffer": "Offre Une Semaine",
+      "growthPartnership": "Partenariat de Croissance",
+      "aiDevelopment": "Développement IA"
+    }
+  },
+  "footer": {
+    "about": "À propos",
+    "services": "Services",
+    "contact": "Contactez-nous",
+    "blog": "Blog",
+    "testimonials": "Témoignages",
+    "copyright": "© {{year}} Nikola Popovic. Tous droits réservés.",
+    "links": {
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions de service",
+      "cookies": "Paramètres des cookies"
+    }
+  }
+} 

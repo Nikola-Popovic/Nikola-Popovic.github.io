@@ -1,0 +1,31 @@
+{
+  "bookingModal": {
+    "button": "Book My Free Consultation"
+  },
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "product": "Libsante",
+    "blog": "Blog",
+    "blogTooltip": "In construction...",
+    "reserve": "I want my free consultation",
+    "servicesMenu": {
+      "oneWeekOffer": "One Week Offer",
+      "growthPartnership": "Growth Partnership",
+      "aiDevelopment": "AI Development"
+    }
+  },
+  "footer": {
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact Us",
+    "blog": "Blog",
+    "testimonials": "Testimonials",
+    "copyright": "© {{year}} Nikola Popovic. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Settings"
+    }
+  }
+} 

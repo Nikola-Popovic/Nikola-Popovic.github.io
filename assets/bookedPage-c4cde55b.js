@@ -1,1 +1,0 @@
-const t="Demande de consultation reçue",e="Merci pour ta demande. Je te contacterai prochainement pour confirmer ta réservation.",o="Pour toute question, tu peux envoyer un courriel à <mailTo>{{email}}</mailTo>.",n={title:t,subtitle:e,contact:o};export{o as contact,n as default,e as subtitle,t as title};

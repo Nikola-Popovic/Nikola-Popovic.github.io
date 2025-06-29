@@ -1,0 +1,124 @@
+{
+  "header": {
+    "title": "Ton Site Web Professionnel en Seulement 1 Semaine",
+    "description": "Spécialement conçu pour ta pratique en santé — rapide, efficace et taillé sur mesure pour tes besoins. Ne perds plus de temps, mets ta présence en ligne à jour dès maintenant.",
+    "buttons": {
+      "reserve": "Réserve",
+      "start": "Commence"
+    }
+  },
+  "serviceIntroduction": {
+    "tag": "Rapidité",
+    "title": "Pourquoi Je Propose Ce Service ?",
+    "description": "J'ai constaté que de nombreux professionnels investissent des sommes considérables dans des sites web qui prennent des mois à se concrétiser. Mon objectif est de simplifier ce processus avec une approche rapide et efficace, garantissant des résultats tangibles.",
+    "buttons": {
+      "learnMore": "En Savoir Plus",
+      "reserve": "Réserve"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Pourquoi Attendre Des Mois Quand Tu Peux Avoir un Site en 7 Jours?",
+    "description": "Les agences traditionnelles prennent souvent des semaines, voire des mois, pour finaliser un site. Pour les praticiens occupés, chaque minute compte et la rapidité d'exécution est essentielle pour rester compétitif."
+  },
+  "whyChooseUsSection": {
+    "title": "Pourquoi Attendre Des Mois Quand Tu Peux Avoir un Site en 7 Jours?",
+    "description": "Les agences traditionnelles prennent souvent des semaines, voire des mois, pour finaliser un site. Pour les praticiens occupés, chaque minute compte et la rapidité d'exécution est essentielle pour rester compétitif."
+  },
+  "features": {
+    "title": "Conçu Pour Ta Pratique : Tout le Nécessaire, Sans Superflu",
+    "items": [
+      {
+        "title": "Fonctionnalités Adaptées Pour Améliorer Ton Pratique Médicale Efficacement",
+        "description": "Chaque site est conçu pour répondre aux besoins spécifiques de ta pratique.",
+        "buttonText": "Découvrir"
+      },
+      {
+        "title": "Design Personnalisé : Un Style Qui Te Ressemble et Te Représente",
+        "description": "Mise en page adaptée à ton style de consultation ou spécialité.",
+        "buttonText": "Explorer"
+      },
+      {
+        "title": "Optimisations de Base : SEO, Rapidité et Design Responsive Inclus",
+        "description": "Référencement SEO initial, temps de chargement rapide, responsive design pour tous les appareils.",
+        "buttonText": "En Savoir Plus"
+      }
+    ]
+  },
+  "pricing": {
+    "plans": [
+      {
+        "title": "Plan Basique",
+        "description": "Idéal pour les petites pratiques",
+        "monthlyPrice": "19€/mois",
+        "yearlyPrice": "180€/an",
+        "features": [
+          "Design personnalisé",
+          "Pages essentielles incluses",
+          "Optimisation SEO de base"
+        ]
+      },
+      {
+        "title": "Plan Professionnel",
+        "description": "Pour les pratiques établies",
+        "monthlyPrice": "29€/mois",
+        "yearlyPrice": "280€/an",
+        "features": [
+          "Support prioritaire",
+          "Fonctionnalités avancées",
+          "Mises à jour régulières",
+          "Assistance personnalisée"
+        ]
+      },
+      {
+        "title": "Plan Entreprise",
+        "description": "Pour les grandes pratiques",
+        "monthlyPrice": "49€/mois",
+        "yearlyPrice": "480€/an",
+        "features": [
+          "Gestion de projet dédiée",
+          "Analyse de performance",
+          "Personnalisation complète",
+          "Intégration d'API",
+          "Fonctionnalités illimitées"
+        ]
+      }
+    ]
+  },
+  "testimonial": {
+    "quote": "Grâce à ce service, j'ai pu lancer mon site rapidement et sans stress. Cela m'a permis de me concentrer à nouveau sur mes patients.",
+    "author": "Marie Dupont",
+    "position": "Médecin, Clinique Santé"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Un site en 7 jours, c'est de la qualité ?",
+        "answer": "Oui, notre processus est conçu pour garantir une qualité optimale. Nous avons des étapes claires et structurées. Chaque site est soigneusement vérifié avant la mise en ligne."
+      },
+      {
+        "question": "Quel est le coût total ?",
+        "answer": "Le coût dépend des fonctionnalités choisies. Vous ne payez que pour ce dont vous avez besoin. Cela vous permet de maîtriser votre budget."
+      },
+      {
+        "question": "Puis-je ajouter des fonctionnalités ?",
+        "answer": "Absolument, nous pouvons facilement ajouter des fonctionnalités supplémentaires à votre site. Cela peut être fait à tout moment. Votre site évoluera avec votre pratique."
+      },
+      {
+        "question": "Y a-t-il des garanties ?",
+        "answer": "Nous offrons une garantie de satisfaction. Si vous n'êtes pas satisfait, nous travaillerons avec vous jusqu'à ce que vous le soyez. Votre succès est notre priorité."
+      },
+      {
+        "question": "Comment se passe le paiement ?",
+        "answer": "Le paiement se fait en plusieurs étapes. Un acompte est requis pour commencer. Le solde est dû à la livraison du site."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Accélère Ta Présence En Ligne",
+    "description": "En seulement 7 jours, ta pratique sera enfin sous les projecteurs et prête à briller.",
+    "buttons": {
+      "primary": "Commence Ta Transformation",
+      "secondary": "Démarrer Maintenant"
+    }
+  }
+} 

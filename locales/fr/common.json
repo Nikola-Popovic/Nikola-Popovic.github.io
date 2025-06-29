@@ -1,4 +1,7 @@
 {
+  "bookingModal": {
+    "button": "Réserver ma consultation gratuite"
+  },
   "navbar": {
     "home": "Accueil",
     "services": "Services",

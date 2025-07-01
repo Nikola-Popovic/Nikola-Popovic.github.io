@@ -1,79 +1,65 @@
 {
   "hero": {
-    "eyebrow": "With our AI First Approach",
+    "eyebrow": "With our AI-first approach",
     "title": "We don't just grow your business - ",
     "animatedPhrases": [
-      "we free you from it.",
-      "we 4x your output.",
-      "we remove the tech from your plate."
+      "We free you from it.",
+      "We get you 40h back every month.",
+      "We do the work while you sleep."
     ],
-    "description": "Focus on what matters most — We build the tools and strategies to automate the rest.",
-    "primaryButton": "Book my free consultation",
-    "secondaryButton": "Discover our offers"
+    "description": "While your competitors juggle endless tasks, you focus on what actually generates revenue. I build the AI systems that handle the rest.",
+    "primaryButton": "Get my 40 hours back",
+    "secondaryButton": "See how much I'm losing now"
   },
   "aiCentered": {
-    "title": "We put AI at the center of {{everything}} we do.",
-    "everything": "everything",
-    "subtitle": "Your trusted partner in becoming an AI-first company."
+    "title": "AI does all the {{everything}} for you.",
+    "everything": "repetitive work",
+    "subtitle": "Your partner to become the leader who orchestrates instead of burning out."
   },
   "aiJourney": {
-    "header": "Get a head start with our 3 step {{transformation}} journey",
-    "transformation": "AI transformation",
+    "header": "How we save you {{transformation}} in 3 steps",
+    "transformation": "40h per month",
     "steps": [
       {
-        "label": "Identify",
-        "title": "Identify",
-        "subtitle": "We help you identify high-impact AI opportunities and build a step-by-step AI Transformation strategy to bring them to life"
+        "label": "Audit",
+        "title": "We find where you're bleeding time",
+        "subtitle": "With a few quick consultations, we identify exactly where you're losing 40h+ monthly and how much it's costing in missed revenue"
       },
       {
-        "label": "Educate",
-        "title": "Educate",
-        "subtitle": "We train and support your team with the right tools and know how to embed AI across all your entire organization"
+        "label": "Automation",
+        "title": "We build your AI systems",
+        "subtitle": "We develop tools and custom automations that do the work while you focus on paying clients"
       },
       {
-        "label": "Develop",
-        "title": "Develop",
-        "subtitle": "We leverage our extensive experience and network to develop custom AI systems that will increase your output 4 times"
+        "label": "Training",
+        "title": "Your team masters everything",
+        "subtitle": "We train your team to use the tools like pros. Result: your productivity triples without hiring"
       }
     ]
   },
-  "approach": {
-    "title": "Get A Head Start With AI",
-    "description": "We believe in working smarter not harder. Our approach focuses on personalization and integration of modern technologies.",
-    "features": {
-      "speed": {
-        "title": "Speed and Efficiency",
-        "description": "Quick setup, from one week, for immediate impact on your practice."
-      },
-      "personalization": {
-        "title": "Total Personalization",
-        "description": "Tailored solutions adapted to your specific needs and practice."
-      }
-    }
-  },
   "whyWorkWithMe": {
-    "title": "Why I'm not like other agencies?",
-    "description": "While traditional agencies charge for 120 hours of work that can be done in 20, I build AI systems that do the work while you focus on what actually matters. No more bureaucratic theater, no more inflated billing—just results that give you your freedom back.",
-    "primaryButton": "Contact",
-    "secondaryButton": "Book",
+    "title": "Why I'm not like other consultants?",
+    "description": "While traditional agencies bill you 120 hours for what can be done in 20, I build AI systems that work 24/7 while you do other things. No more bureaucratic theater or inflated billing. Just results that give you your freedom back.",
+    "primaryButton": "I want my freedom",
+    "secondaryButton": "Calculate my savings",
     "stats": {
       "years": {
         "value": "4+",
-        "label": "Years of professional experience"
+        "label": "Years automating service businesses"
       },
       "projects": {
-        "value": "15+",
-        "label": "Client projects delivered"
+        "value": "40h+",
+        "label": "Saved per month for my clients"
       },
       "satisfaction": {
-        "value": "100%",
-        "label": "Of clients reclaiming their time"
+        "value": "$50K+",
+        "label": "In protected revenue annually"
       }
     }
   },
   "cta": {
-    "title": "The future belongs to orchestrators",
-    "description": "The question isn't whether AI will transform your industry—it's whether you'll lead this transformation or get left behind.",
-    "primaryButton": "I want my freedom back"
+    "title": "In 5 years, there will be two types of entrepreneurs",
+    "description": "Those who orchestrate with AI... and those still burning out doing manually what a machine can do in 2 minutes.",
+    "primaryButton": "I choose to orchestrate"
   }
-} 
+}

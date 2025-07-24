@@ -1,0 +1,25 @@
+{
+  "title": "Paramètres des Cookies",
+  "description": "Nous utilisons des cookies pour améliorer votre expérience de navigation, servir du contenu personnalisé et analyser notre trafic. En cliquant sur \"Accepter Tout\", vous consentez à notre utilisation des cookies.",
+  "necessary": {
+    "title": "Nécessaires",
+    "description": "Ces cookies sont essentiels au bon fonctionnement du site web. Ils ne peuvent pas être désactivés. Nous les utilisons pour stocker votre préférence de langue.",
+    "alwaysActive": "Toujours actif"
+  },
+  "analytics": {
+    "title": "Analytiques",
+    "description": "Ces cookies nous aident à comprendre comment les visiteurs interagissent avec notre site web en collectant et en rapportant des informations de manière anonyme."
+  },
+  "marketing": {
+    "title": "Marketing",
+    "description": "Ces cookies sont utilisés pour suivre les visiteurs sur différents sites web afin d'afficher des publicités pertinentes et engageantes."
+  },
+  "buttons": {
+    "acceptAll": "Accepter tout",
+    "acceptNecessary": "Accepter seulement les nécessaires",
+    "save": "Enregistrer les paramètres",
+    "rejectAll": "Rejeter tout"
+  },
+  "learnMore": "En savoir plus",
+  "privacyPolicy": "Politique de confidentialité"
+} 

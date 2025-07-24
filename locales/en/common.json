@@ -27,5 +27,8 @@
       "terms": "Terms of Service",
       "cookies": "Cookie Settings"
     }
+  },
+  "testimonialsModal": {
+    "title": "Client Testimonials"
   }
 } 

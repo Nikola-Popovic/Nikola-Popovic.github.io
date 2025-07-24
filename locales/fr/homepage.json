@@ -1,11 +1,11 @@
 {
   "hero": {
-    "eyebrow": "Avec notre approche IA-first",
-    "title": "On ne fait pas que faire croître ton business - ",
+    "eyebrow": "Avec notre approche IA-d'abord",
+    "title": "On ne fait pas que croître ton entreprise - ",
     "animatedPhrases": [
-      "On t'en libère.",
-      "On te récupère 40h par mois.",
-      "On fait le travail pendant que tu dors."
+      "on t'en libère.",
+      "on automatise le répétitif.",
+      "on t'apprends à utiliser l'IA."
     ],
     "description": "Pendant que tes concurrents jonglent avec des tâches sans fin, toi tu te concentres sur ce qui génère vraiment des revenus. Je construis les systèmes IA qui s'occupent du reste.",
     "primaryButton": "Récupérer mes 40 heures",
@@ -23,7 +23,7 @@
       {
         "label": "Audit",
         "title": "On trouve où tu saignes du temps",
-        "subtitle": "Avec quelques consultations rapides, on identifie exactement où tu perds 40h+ par mois et combien ça te coûte en revenus ratés"
+        "subtitle": "Avec quelques consultations rapides, on identifie exactement où tu perds ton temps et comment récupérer 40h+ par mois."
       },
       {
         "label": "Automatisation",
@@ -33,7 +33,7 @@
       {
         "label": "Formation",
         "title": "Ton équipe maîtrise tout",
-        "subtitle": "On forme ton équipe pour qu'elle utilise les outils comme des pros. Résultat : ta productivité triple sans embaucher"
+        "subtitle": "On forme ton équipe pour qu'elle utilise les outils comme des pros. Résultat, ta productivité triple sans embaucher"
       }
     ]
   },

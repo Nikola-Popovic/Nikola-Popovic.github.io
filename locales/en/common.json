@@ -1,6 +1,7 @@
 {
   "bookingModal": {
-    "button": "I Want My Freedom Back"
+    "button": "I Want My Freedom Back",
+    "shortened": "Get my freedom back"
   },
   "navbar": {
     "home": "Home",

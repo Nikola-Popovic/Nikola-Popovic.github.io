@@ -37,6 +37,15 @@
       }
     ]
   },
+  "voiceAgentOffer": {
+    "eyebrow": "Offre gratuite limitée",
+    "title": "Ta nouvelle réceptionniste IA",
+    "subtitle": "Ne rate plus un seul lead ou un rendez-vous — notre IA gère tout.",
+    "description": "Notre agent vocal IA répond à chaque appel, qualifie tes prospects et book tes rendez-vous automatiquement, pour capter plus <span class=\"italic\">sans embauche supplémentaire</span>.",
+    "offer": "Offre gagnant-gagnant : verse un dépôt pour configurer ton agent personnalisé, suis quelques sessions de formation, donne-nous du feedback et un avis, et <span class=\"text-emerald-400 font-semibold\">on te rembourse TOUT</span> ton dépôt en crédit — ta réceptionniste IA devient ainsi <strong>GRATUITE</strong>.",
+    "cta": "Obtenir mon agent vocal gratuit",
+    "limitation": "On ne peut configurer que 4 agents par trimestre"
+  },
   "whyWorkWithMe": {
     "title": "Pourquoi je ne suis pas comme les autres consultants?",
     "description": "Pendant que les agences traditionnelles te facturent 120 heures pour ce qui peut être fait en 20, moi je construis des systèmes IA qui travaillent 24/7 pendant que tu fais autre chose. Fini le théâtre bureaucratique et les facturations gonflées. Juste des résultats qui te donnent ta liberté.",

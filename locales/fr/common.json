@@ -1,7 +1,8 @@
 {
   "bookingModal": {
     "button": "Je veux récupérer ma liberté",
-    "shortened": "Récupérer ma liberté"
+    "shortened": "Récupérer ma liberté",
+    "freeVoiceAgent": "Obtenir mon agent vocal gratuit"
   },
   "navbar": {
     "home": "Accueil",

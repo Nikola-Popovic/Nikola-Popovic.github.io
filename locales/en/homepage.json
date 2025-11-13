@@ -37,6 +37,15 @@
       }
     ]
   },
+  "voiceAgentOffer": {
+    "eyebrow": "Limited free offer",
+    "title": "Your new 24/7 Receptionist",
+    "subtitle": "Never miss a lead or appointment again—our AI handles it all.",
+    "description": "Our AI agent automatically answers every call, qualifies hot leads, and books appointments on the spot. Say goodbye to missed opportunities and hello to <span class=\"font-semibold\">more revenue</span>—without lifting a finger.",
+    "offer": "Win-win offer: pay a deposit to set up your custom agent, join a few quick training calls, provide feedback and a review, and <span class=\"text-emerald-400 font-semibold\">we refund your ENTIRE</span> deposit in credit — making your AI receptionist <strong>FREE</strong>.",
+    "cta": "Get my free voice agent",
+    "limitation": "Only 4 spots available this quarter—claim yours before they're gone!"
+  },
   "whyWorkWithMe": {
     "title": "Why I'm not like other consultants?",
     "description": "While traditional agencies bill you 120 hours for what can be done in 20, I build AI systems that work 24/7 while you do other things. No more bureaucratic theater or inflated billing. Just results that give you your freedom back.",

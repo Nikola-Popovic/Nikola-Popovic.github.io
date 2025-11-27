@@ -41,9 +41,9 @@
     "eyebrow": "Limited free offer",
     "title": "Your new 24/7 Receptionist",
     "subtitle": "Never miss a lead or appointment again—our AI handles it all.",
-    "description": "Our AI agent automatically answers every call, qualifies hot leads, and books appointments on the spot. Say goodbye to missed opportunities and hello to <span class=\"font-semibold\">more revenue</span>—without lifting a finger.",
+    "description": "Our AI agent automatically answers, qualifies hot leads, and books appointments on the spot. Say goodbye to missed opportunities and hello to <span class=\"font-semibold\">more revenue</span>—without lifting a finger.",
     "offer": "Win-win offer: pay a deposit to set up your custom agent, join a few quick training calls, provide feedback and a review, and <span class=\"text-emerald-400 font-semibold\">we refund your ENTIRE</span> deposit in credit — making your AI receptionist <strong>FREE</strong>.",
-    "cta": "Get my free voice agent",
+    "cta": "Get my free custom agent",
     "limitation": "Only 4 spots available this quarter—claim yours before they're gone!"
   },
   "whyWorkWithMe": {
@@ -70,5 +70,30 @@
     "title": "In 5 years, there will be two types of entrepreneurs",
     "description": "Those who orchestrate with AI... and those still burning out doing manually what a machine can do in 2 minutes.",
     "primaryButton": "I choose to orchestrate"
+  },
+  "servicesSection": {
+    "title": "Our quiet revolutions",
+    "subtitle": "The ways we return your time, your calm, and your peace.",
+    "voiceagent": {
+      "eyebrow": "Voiceagent",
+      "title": "A voice that never sleeps",
+      "description": "Your phone rings. A warm, intelligent voice answers, understands, qualifies, and books — all while you're in deep work or simply resting. Customers feel heard. You feel free."
+    },
+    "contentAccelerator": {
+      "eyebrow": "AI Content Accelerator",
+      "title": "From spark to finished pieces",
+      "description": "Drop a raw idea into Notion. The AI enriches the outline, writes multiple drafts and suggests visuals. You refine, ship and it even improves overtime— never to start from zero."
+    },
+    "automation": {
+      "eyebrow": "Custom AI Solutions",
+      "title": "Invisible systems that run your business",
+      "description": "We find the loops that drain you — emails, scheduling, follow-ups, data entry — and replace them with intelligent automations that work perfectly, silently, forever."
+    },
+    "chatAgent": {
+      "eyebrow": "Chat Agent",
+      "title": "Always there, never overwhelming",
+      "description": "A conversation partner for your customers that feels human, remembers context, solves problems, and closes sales — 24 hours a day."
+    },
+    "closingLine": "Everything we build is designed to help you get back to doing what you love."
   }
 }

@@ -43,7 +43,7 @@
     "subtitle": "Ne rate plus un seul lead ou un rendez-vous — notre IA gère tout.",
     "description": "Notre agent vocal IA répond à chaque appel, qualifie tes prospects et book tes rendez-vous automatiquement, pour capter plus <span class=\"italic\">sans embauche supplémentaire</span>.",
     "offer": "Offre gagnant-gagnant : verse un dépôt pour configurer ton agent personnalisé, suis quelques sessions de formation, donne-nous du feedback et un avis, et <span class=\"text-emerald-400 font-semibold\">on te rembourse TOUT</span> ton dépôt en crédit — ta réceptionniste IA devient ainsi <strong>GRATUITE</strong>.",
-    "cta": "Obtenir mon agent vocal gratuit",
+    "cta": "Obtenir mon agent gratuit",
     "limitation": "On ne peut configurer que 4 agents par trimestre"
   },
   "whyWorkWithMe": {
@@ -70,5 +70,30 @@
     "title": "Dans 5 ans, il y aura deux types d'entrepreneurs",
     "description": "Ceux qui orchestrent avec l'IA... et ceux qui s'épuisent encore à faire manuellement ce qu'une machine peut faire en 2 minutes.",
     "primaryButton": "Je choisis d'orchestrer"
+  },
+  "servicesSection": {
+    "title": "Nos révolutions silencieuses",
+    "subtitle": "Te rendre ton temps, ton calme, ta sérénité.",
+    "voiceagent": {
+      "eyebrow": "Voiceagent",
+      "title": "Une voix qui ne dort jamais",
+      "description": "Ton téléphone sonne. Une voix chaleureuse et intelligente répond, comprend, qualifie et réserve — pendant que tu es en deep work ou simplement au repos. Tes clients se sentent écoutés. Tu te sens libre."
+    },
+    "contentAccelerator": {
+      "eyebrow": "AI Content Accelerator",
+      "title": "De l'étincelle à la création",
+      "description": "Dépose une idée brute dans Notion. L'IA enrichit le plan, écrit des brouillons, suggère des visuels. Tu affines, publies. Le système apprend en continu — pour ne jamais repartir de zéro."
+    },
+    "automation": {
+      "eyebrow": "Solutions IA sur mesure",
+      "title": "Des systèmes invisibles qui gèrent ton business",
+      "description": "Nous trouvons les boucles qui t'épuisent — e-mails, planification, relances — et les remplaçons par des automations intelligentes. Silencieuses, efficaces et pérennes."
+    },
+    "chatAgent": {
+      "eyebrow": "Chat Agent",
+      "title": "Toujours là, jamais envahissant",
+      "description": "Un interlocuteur pour tes clients, à l'approche humaine. Il retient le contexte, résout les problèmes et conclut des ventes — 24h/24."
+    },
+    "closingLine": "Chaque création est conçue pour te ramener à ce que tu aimes."
   }
 }

@@ -1,0 +1,101 @@
+<svg width="390" height="600" viewBox="0 0 390 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aiGradientChat" x1="100" y1="100" x2="290" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30cfd0" />
+      <stop offset="1" stop-color="#330867" />
+    </linearGradient>
+    <linearGradient id="bgGradientChat" x1="195" y1="0" x2="195" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2C2C2E" />
+      <stop offset="1" stop-color="#1C1C1E" />
+    </linearGradient>
+    <filter id="shadowChat" x="-50" y="-50" width="490" height="700" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+    <clipPath id="screenClipChat">
+      <rect width="390" height="600" rx="55" fill="white"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .ai-pulse-small { animation: pulseSmall 3s infinite ease-in-out; transform-origin: center; transform-box: fill-box; }
+    @keyframes pulseSmall {
+      0% { opacity: 0.8; } 50% { opacity: 1; filter: brightness(1.2); } 100% { opacity: 0.8; }
+    }
+    .typing-dot { animation: typingFlow 1.4s infinite ease-in-out both; fill: #8E8E93; }
+    .d1 { animation-delay: -0.32s; } .d2 { animation-delay: -0.16s; }
+    @keyframes typingFlow { 0%, 80%, 100% { transform: scale(0); } 40% { transform: scale(1); } }
+    .msg-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 15px; }
+    .time-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; fill: #8E8E93; }
+  </style>
+
+  <g>
+    <rect width="390" height="630" rx="55"/>
+    <g clip-path="url(#screenClipChat)">
+      <rect width="390" height="600" fill="url(#bgGradientChat)"/>
+      
+      <text x="35" y="42" fill="white" font-size="16" font-weight="600" font-family="sans-serif">22:42</text>
+       <path d="M320 36h18v10h-18z" stroke="white" stroke-width="2" rx="2"/> <path d="M340 39v4h2v-4z" fill="white"/> <path d="M295 46l4-4 4 4" stroke="white" stroke-width="2" fill="none"/> <path d="M299 38l-4 4h8z" fill="white"/>
+      <rect x="120" y="11" width="150" height="36" rx="18" fill="black"/>
+
+      <g transform="translate(0, 60)">
+        <path d="M25 20l-10 10 10 10" stroke="#0A84FF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="195" cy="15" r="18" fill="url(#aiGradientChat)" class="ai-pulse-small"/>
+        <text x="195" y="48" fill="white" font-size="14" font-weight="600" text-anchor="middle" font-family="sans-serif">Claire (AI Assistant)</text>
+        <text x="195" y="65" fill="#8E8E93" font-size="12" text-anchor="middle" font-family="sans-serif">Replies instantly</text>
+      </g>
+      <line x1="0" y1="135" x2="390" y2="135" stroke="#3A3A3C" stroke-width="0.5"/>
+
+
+      <g transform="translate(0, 150)">
+        
+        <g transform="translate(110, 20)">
+           <rect x="0" y="0" width="250" height="56" rx="18" fill="#0A84FF"/>
+           <text x="15" y="24" fill="white" class="msg-text">
+  <tspan x="15" dy="0">Hi, I need help choosing a plan.</tspan>
+  <tspan x="15" dy="20">Are you available right now?</tspan>
+</text>
+
+        </g>
+        <text x="355" y="90" text-anchor="end" class="time-text">22:42</text>
+
+
+        <g transform="translate(20, 95)">
+            <rect x="0" y="0" width="260" height="88" rx="18" fill="#3A3A3C"/>
+            <text x="15" y="28" fill="white" class="msg-text">Absolutely! I'm here 24/7.</text>
+            <text x="15" y="48" fill="white" class="msg-text">
+<tspan x="15" dy="0">Based on your needs, the 'Pro' tier</tspan>
+<tspan x="15" dy="20">is best for scaling. Shall I set it up?
+</tspan>
+</text>
+        </g>
+        <text x="35" y="200" class="time-text">22:42</text>
+
+
+        <g transform="translate(130, 205)">
+           <rect x="0" y="0" width="230" height="56" rx="18" fill="#0A84FF"/>
+           <text x="15" y="24" fill="white" class="msg-text">
+<tspan x="15" dy="0">Yes, please! That's exactly what</tspan>
+<tspan x="15" dy="20">I needed.</tspan>
+</text>
+        </g>
+        <text x="355" y="275" text-anchor="end" class="time-text">22:43</text>
+
+        <g transform="translate(20, 285)">
+            <rect x="0" y="0" width="250" height="48" rx="18" fill="#3A3A3C"/>
+            <text x="15" y="28" fill="white" class="msg-text">Done! 🎉 Your account is active.</text>
+        </g>
+        <text x="35" y="350" class="time-text">22:43</text>
+      </g>
+
+
+      <g transform="translate(0, 500)">
+        <line x1="0" y1="0" x2="390" y2="0" stroke="#3A3A3C" stroke-width="0.5"/>
+        <rect width="390" height="80" fill="#1C1C1E"/> <rect x="20" y="15" width="290" height="40" rx="20" fill="#2C2C2E"/>
+        
+        <circle cx="350" cy="35" r="18" fill="#0A84FF"/>
+        <path d="M350 25l0 20m0-20l-7 7m7-7l7 7" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      
+    </g>
+  </g>
+</svg>

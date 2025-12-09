@@ -32,5 +32,13 @@
   },
   "testimonialsModal": {
     "title": "Témoignages Clients"
+  },
+  "convai": {
+    "actionText": "Besoin d'aide ?",
+    "startCallText": "Commencer la conversation",
+    "endCallText": "Terminer l'appel",
+    "expandText": "Ouvrir le chat",
+    "listeningText": "Écoute...",
+    "speakingText": "L'assistant parle"
   }
 } 

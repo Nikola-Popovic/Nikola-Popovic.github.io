@@ -32,5 +32,13 @@
   },
   "testimonialsModal": {
     "title": "Client Testimonials"
+  },
+  "convai": {
+    "actionText": "Need assistance?",
+    "startCallText": "Begin conversation",
+    "endCallText": "End call",
+    "expandText": "Open chat",
+    "listeningText": "Listening...",
+    "speakingText": "Assistant speaking"
   }
 } 

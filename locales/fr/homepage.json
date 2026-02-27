@@ -1,99 +1,124 @@
 {
   "hero": {
-    "eyebrow": "Avec notre approche IA-d'abord",
-    "title": "On ne fait pas que croître ton entreprise - ",
-    "animatedPhrases": [
-      "on t'en libère.",
-      "on automatise le répétitif.",
-      "on t'apprends à utiliser l'IA."
+    "eyebrow": "Pour les entreprises en croissance prises dans le chaos opérationnel",
+    "title": "Ton entreprise tient avec du scotch et des tableurs.",
+    "subtitle": "On va arranger ça.",
+    "description": "On construit les systèmes, automatisations et outils IA qui te permettent de passer de la gestion de crise à la vraie croissance — sans embaucher une armée.",
+    "primaryButton": "Trouver 5 opportunités à fort ROI — Gratuit, 30 min",
+    "qualifier": "Pour les entreprises en croissance (5–50 personnes) qui ont dépassé les tableurs mais ne sont pas prêtes pour les logiciels d'entreprise."
+  },
+  "problemSection": {
+    "hookTitles": ["Ça te parle ?", "Tu t'y reconnais ?", "C'est ton quotidien ?"],
+    "pains": [
+      "Les infos clients sont dans 5 endroits différents. Aucun ne correspond.",
+      "Ton équipe passe la moitié de la journée sur les e-mails au lieu du vrai travail.",
+      "Tu as acheté 6 outils. Ils ne se parlent pas.",
+      "Tu veux croître mais tu ne peux même pas documenter comment les choses fonctionnent aujourd'hui."
     ],
-    "description": "Pendant que tes concurrents jonglent avec des tâches sans fin, toi tu te concentres sur ce qui génère vraiment des revenus. Je construis les systèmes IA qui s'occupent du reste.",
-    "primaryButton": "Récupérer mes 40 heures",
-    "secondaryButton": "Voir combien je perds actuellement"
+    "closing": "Ce n'est pas un problème de technologie. C'est un problème de structure."
   },
-  "aiCentered": {
-    "title": "L'IA fait tout {{everything}} à ta place.",
-    "everything": "le travail répétitif",
-    "subtitle": "Ton partenaire pour devenir le leader qui orchestre au lieu de s'épuiser."
+  "servicesSection": {
+    "title": "Connecter. Automatiser. Augmenter.",
+    "subtitle": "Des opérations dispersées à une entreprise connectée et intelligente.",
+    "connect": {
+      "eyebrow": "Niveau 1",
+      "title": "CONNECTER — Mettre de l'ordre dans la maison",
+      "description": "Un seul CRM. Une seule source de vérité. Des outils qui se parlent vraiment. On nettoie tes données, connecte tes outils et donne à ton équipe un système qui reflète la réalité — pas cinq tableurs contradictoires.",
+      "outcomes": [
+        "Configuration et migration CRM",
+        "Intégrations d'applications (tes outils, connectés)",
+        "Nettoyage et consolidation des données",
+        "Documentation des processus"
+      ]
+    },
+    "automate": {
+      "eyebrow": "Niveau 2",
+      "title": "AUTOMATISER — Arrêter de faire le boulot du robot",
+      "description": "Si un humain ne devrait pas le faire, un humain ne devrait pas le faire. On construit des automatisations qui gèrent le triage des e-mails, les relances, le routage des tâches et la saisie de données — pour que ton équipe se concentre sur ce qui demande vraiment un cerveau.",
+      "outcomes": [
+        "Catégorisation d'e-mails et brouillons automatiques",
+        "Séquences de relance des prospects",
+        "Routage interne des tâches et notifications",
+        "Synchronisation de données entre plateformes"
+      ]
+    },
+    "augment": {
+      "eyebrow": "Niveau 3",
+      "title": "AUGMENTER — Ajouter de l'intelligence",
+      "description": "Avec tes systèmes connectés et tes processus automatisés, on ajoute une couche d'IA qui gère du vrai travail. Appels répondus 24h/24. Questions clients traitées instantanément. Les connaissances de ton équipe, trouvables en secondes.",
+      "outcomes": [
+        "Réceptionniste IA (entrant/sortant, bilingue)",
+        "Agent de chat formé sur ton entreprise",
+        "Recherche intelligente dans les données internes",
+        "Rapports et insights assistés par IA"
+      ]
+    }
   },
-  "aiJourney": {
-    "header": "Comment on te fait économiser {{transformation}} en 3 étapes",
-    "transformation": "40h par mois",
+  "beforeAfter": {
+    "title": "La Transformation",
+    "beforeLabel": "Avant",
+    "afterLabel": "Après",
+    "rows": [
+      { "before": "6 outils qui ne se parlent pas", "after": "Des outils qui se parlent vraiment" },
+      { "before": "Entrer manuellement des données d'une app à l'autre", "after": "Des automatisations qui s'occupent de ça pour toi" },
+      { "before": "Données clients éparpillées dans des fichiers Excel", "after": "Un CRM, une seule source de vérité" },
+      { "before": "2h par jour sur les e-mails", "after": "Catégorisés et traités automatiquement" },
+      { "before": "\"Comment on fait ça déjà ?\"", "after": "Documenté, reproductible, et automatique" }
+    ]
+  },
+  "howItWorks": {
+    "header": "Trois phases. {{highlight}}.",
+    "highlight": "De vrais résultats",
     "steps": [
       {
-        "label": "Audit",
-        "title": "On trouve où tu saignes du temps",
-        "subtitle": "Avec quelques consultations rapides, on identifie exactement où tu perds ton temps et comment récupérer 40h+ par mois."
+        "label": "CARTOGRAPHIER",
+        "title": "On cartographie tes opérations",
+        "subtitle": "On cartographie tes outils, flux de données et points de blocage. Tu reçois une liste priorisée d'opportunités à fort ROI — pas un rapport de 40 pages. (Semaines 1–2)"
       },
       {
-        "label": "Automatisation",
-        "title": "On construit tes systèmes IA",
-        "subtitle": "On développe des outils et automatisations sur mesure qui font le travail pendant que tu te concentres sur tes clients payants"
+        "label": "CONSTRUIRE",
+        "title": "On construit tes systèmes",
+        "subtitle": "On implémente les systèmes, intégrations et automatisations. Tu vois les progrès chaque semaine. Ton équipe apprend au fur et à mesure. (Semaines 3–6)"
       },
       {
-        "label": "Formation",
-        "title": "Ton équipe maîtrise tout",
-        "subtitle": "On forme ton équipe pour qu'elle utilise les outils comme des pros. Résultat, ta productivité triple sans embaucher"
+        "label": "AMPLIFIER",
+        "title": "On ajoute de l'intelligence",
+        "subtitle": "Avec les bases solides, on ajoute l'IA — agents vocaux, chat, recherche intelligente — qui multiplient ta capacité sans multiplier les effectifs. (Semaines 6–8+)"
       }
     ]
   },
   "voiceAgentOffer": {
-    "eyebrow": "Offre gratuite limitée",
-    "title": "Ta nouvelle réceptionniste IA",
-    "subtitle": "Ne rate plus un seul lead ou un rendez-vous — notre IA gère tout.",
-    "description": "Notre agent vocal IA répond à chaque appel, qualifie tes prospects et book tes rendez-vous automatiquement, pour capter plus <span class=\"italic\">sans embauche supplémentaire</span>.",
-    "offer": "Offre gagnant-gagnant : verse un dépôt pour configurer ton agent personnalisé, suis quelques sessions de formation, donne-nous du feedback et un avis, et <span class=\"text-emerald-400 font-semibold\">on te rembourse TOUT</span> ton dépôt en crédit — ta réceptionniste IA devient ainsi <strong>GRATUITE</strong>.",
-    "cta": "Obtenir mon agent gratuit",
-    "limitation": "On ne peut configurer que 4 agents par trimestre"
+    "eyebrow": "Démo Gratuite",
+    "title": "Tu veux voir ce que l'IA peut vraiment faire ?",
+    "subtitle": "On te construit une démo de réceptionniste IA personnalisée — formée sur ton entreprise, dans ta langue, gérant tes vrais scénarios.",
+    "description": "Gratuit. Sans conditions. <span class=\"font-semibold\">Tu la gardes dans tous les cas.</span>",
+    "offer": "On construit la démo, tu la testes avec de vrais scénarios. Si tu veux la conserver — on en parle. Dans tous les cas, tu repars avec la preuve de ce que l'IA peut faire pour ton entreprise.",
+    "cta": "Obtenir ma démo de réceptionniste IA gratuite",
+    "limitation": "Seulement 4 places disponibles ce trimestre."
   },
   "whyWorkWithMe": {
-    "title": "Pourquoi je ne suis pas comme les autres consultants?",
-    "description": "Pendant que les agences traditionnelles te facturent 120 heures pour ce qui peut être fait en 20, moi je construis des systèmes IA qui travaillent 24/7 pendant que tu fais autre chose. Fini le théâtre bureaucratique et les facturations gonflées. Juste des résultats qui te donnent ta liberté.",
-    "primaryButton": "Je veux ma liberté",
-    "secondaryButton": "Calculer mes économies",
+    "title": "Fait pour les entreprises qui construisent des choses",
+    "description": "4+ ans. 40+ projets. 50k$+ économisés pour les clients — pas en vendant plus de logiciels, mais en faisant fonctionner ensemble ce qu'ils ont déjà. Développeur, architecte de systèmes, bilingue (FR/EN). Pas une agence. Juste des résultats.",
+    "primaryButton": "Trouver 5 opportunités à fort ROI",
+    "secondaryButton": "Voir les résultats clients",
     "stats": {
       "years": {
         "value": "4+",
         "label": "Années à automatiser des entreprises de services"
       },
       "projects": {
-        "value": "40h+",
-        "label": "Économisées par mois pour mes clients"
+        "value": "40+",
+        "label": "Projets livrés"
       },
       "satisfaction": {
         "value": "50k$+",
-        "label": "De revenus protégés annuellement"
+        "label": "Économisés pour les clients annuellement"
       }
     }
   },
   "cta": {
-    "title": "Dans 5 ans, il y aura deux types d'entrepreneurs",
-    "description": "Ceux qui orchestrent avec l'IA... et ceux qui s'épuisent encore à faire manuellement ce qu'une machine peut faire en 2 minutes.",
-    "primaryButton": "Je choisis d'orchestrer"
-  },
-  "servicesSection": {
-    "title": "Nos révolutions silencieuses",
-    "subtitle": "Te rendre ton temps, ton calme, ta sérénité.",
-    "voiceagent": {
-      "eyebrow": "Voiceagent",
-      "title": "Une voix qui ne dort jamais",
-      "description": "Ton téléphone sonne. Une voix chaleureuse et intelligente répond, comprend, qualifie et réserve — pendant que tu es en deep work ou simplement au repos. Tes clients se sentent écoutés. Tu te sens libre."
-    },
-    "contentAccelerator": {
-      "eyebrow": "AI Content Accelerator",
-      "title": "De l'étincelle à la création",
-      "description": "Dépose une idée brute dans Notion. L'IA enrichit le plan, écrit des brouillons, suggère des visuels. Tu affines, publies. Le système apprend en continu — pour ne jamais repartir de zéro."
-    },
-    "automation": {
-      "eyebrow": "Solutions IA sur mesure",
-      "title": "Des systèmes invisibles qui gèrent ton business",
-      "description": "Nous trouvons les boucles qui t'épuisent — e-mails, planification, relances — et les remplaçons par des automations intelligentes. Silencieuses, efficaces et pérennes."
-    },
-    "chatAgent": {
-      "eyebrow": "Chat Agent",
-      "title": "Toujours là, jamais envahissant",
-      "description": "Un interlocuteur pour tes clients, à l'approche humaine. Il retient le contexte, résout les problèmes et conclut des ventes — 24h/24."
-    },
-    "closingLine": "Chaque création est conçue pour te ramener à ce que tu aimes."
+    "title": "Ton entreprise mérite mieux que du scotch.",
+    "description": "Arrête de colmater. Commence à construire. Trouvons 5 opportunités à fort ROI dans ton entreprise — gratuitement, en 30 minutes.",
+    "primaryButton": "Trouver 5 opportunités à fort ROI — Gratuit, 30 min"
   }
 }

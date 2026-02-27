@@ -1,99 +1,124 @@
 {
   "hero": {
-    "eyebrow": "With our AI-first approach",
-    "title": "We don't just grow your business - ",
-    "animatedPhrases": [
-      "We free you from it.",
-      "We get you 40h back every month.",
-      "We do the work while you sleep."
+    "eyebrow": "For growing businesses stuck in operational chaos",
+    "title": "Your Business Runs on Duct Tape and Spreadsheets.",
+    "subtitle": "Let's Fix That.",
+    "description": "We build the systems, automations, and AI tools that let you stop firefighting and start scaling — without hiring an army.",
+    "primaryButton": "Spot 5 High-ROI Opportunities — Free, 30 min",
+    "qualifier": "For growing businesses (5–50 people) who've outgrown spreadsheets but aren't ready for enterprise software."
+  },
+  "problemSection": {
+    "hookTitles": ["Sound Familiar?", "Does This Ring a Bell?", "We've Seen This Before."],
+    "pains": [
+      "Client info lives in 5 places. None of them agree.",
+      "Your team spends half the day on email instead of real work.",
+      "You bought 6 tools. They don't talk to each other.",
+      "You want to scale but can't even document how things work today."
     ],
-    "description": "While your competitors juggle endless tasks, you focus on what actually generates revenue. I build the AI systems that handle the rest.",
-    "primaryButton": "Get my 40 hours back",
-    "secondaryButton": "See how much I'm losing now"
+    "closing": "This isn't a tech problem. It's a structure problem."
   },
-  "aiCentered": {
-    "title": "AI does all the {{everything}} for you.",
-    "everything": "repetitive work",
-    "subtitle": "Your partner to become the leader who orchestrates instead of burning out."
+  "servicesSection": {
+    "title": "Connect. Automate. Augment.",
+    "subtitle": "From scattered operations to a connected, intelligent business.",
+    "connect": {
+      "eyebrow": "Tier 1",
+      "title": "CONNECT — Get Your House in Order",
+      "description": "One CRM. One source of truth. Apps that actually talk to each other. We clean up your data, connect your tools, and give your team a system that reflects reality — not five conflicting spreadsheets.",
+      "outcomes": [
+        "CRM setup and migration",
+        "App integrations (your tools, connected)",
+        "Data cleanup and consolidation",
+        "Process documentation"
+      ]
+    },
+    "automate": {
+      "eyebrow": "Tier 2",
+      "title": "AUTOMATE — Stop Doing the Robot's Job",
+      "description": "If a human shouldn't be doing it, a human shouldn't be doing it. We build automations that handle email triage, follow-ups, task routing, and data entry — so your team focuses on work that actually needs a brain.",
+      "outcomes": [
+        "Email categorization and auto-drafts",
+        "Lead follow-up sequences",
+        "Internal task routing and notifications",
+        "Cross-platform data sync"
+      ]
+    },
+    "augment": {
+      "eyebrow": "Tier 3",
+      "title": "AUGMENT — Add Intelligence to the Mix",
+      "description": "With your systems connected and your processes automated, we layer in AI that handles real work. Calls answered 24/7. Client questions handled instantly. Your team's knowledge, searchable in seconds.",
+      "outcomes": [
+        "AI receptionist (inbound/outbound, bilingual)",
+        "Chat agent trained on your business",
+        "Smart search across internal data",
+        "AI-assisted reporting and insights"
+      ]
+    }
   },
-  "aiJourney": {
-    "header": "How we save you {{transformation}} in 3 steps",
-    "transformation": "40h per month",
+  "beforeAfter": {
+    "title": "The Transformation",
+    "beforeLabel": "Before",
+    "afterLabel": "After",
+    "rows": [
+      { "before": "6 tools that don't talk to each other", "after": "Tools that actually work together" },
+      { "before": "Manual data entry between apps", "after": "Automations that handle it for you" },
+      { "before": "Client data scattered across Excel files", "after": "One CRM, one source of truth" },
+      { "before": "2 hours/day on email", "after": "Auto-categorized, auto-drafted" },
+      { "before": "\"How do we do this again?\"", "after": "Documented, repeatable, and hands-off" }
+    ]
+  },
+  "howItWorks": {
+    "header": "Three Phases. {{highlight}}.",
+    "highlight": "Real Results",
     "steps": [
       {
-        "label": "Audit",
-        "title": "We find where you're bleeding time",
-        "subtitle": "With a few quick consultations, we identify exactly where you're losing 40h+ monthly and how much it's costing in missed revenue"
+        "label": "MAP",
+        "title": "We map your operations",
+        "subtitle": "We map your tools, data flows, and bottlenecks. You get a prioritized list of high-ROI quick wins — not a 40-page report. (Week 1–2)"
       },
       {
-        "label": "Automation",
-        "title": "We build your AI systems",
-        "subtitle": "We develop tools and custom automations that do the work while you focus on paying clients"
+        "label": "BUILD",
+        "title": "We build your systems",
+        "subtitle": "We implement systems, integrations, and automations. You see progress weekly. Your team learns as we go. (Week 3–6)"
       },
       {
-        "label": "Training",
-        "title": "Your team masters everything",
-        "subtitle": "We train your team to use the tools like pros. Result: your productivity triples without hiring"
+        "label": "AMPLIFY",
+        "title": "We add intelligence",
+        "subtitle": "With the foundation solid, we layer in AI — voice agents, chat, smart search — that multiply your capacity without multiplying headcount. (Week 6–8+)"
       }
     ]
   },
   "voiceAgentOffer": {
-    "eyebrow": "Limited free offer",
-    "title": "Your new 24/7 Receptionist",
-    "subtitle": "Never miss a lead or appointment again—our AI handles it all.",
-    "description": "Our AI agent automatically answers, qualifies hot leads, and books appointments on the spot. Say goodbye to missed opportunities and hello to <span class=\"font-semibold\">more revenue</span>—without lifting a finger.",
-    "offer": "Win-win offer: pay a deposit to set up your custom agent, join a few quick training calls, provide feedback and a review, and <span class=\"text-emerald-400 font-semibold\">we refund your ENTIRE</span> deposit in credit — making your AI receptionist <strong>FREE</strong>.",
-    "cta": "Get my free custom agent",
-    "limitation": "Only 4 spots available this quarter—claim yours before they're gone!"
+    "eyebrow": "Free Demo",
+    "title": "Want to See What AI Can Actually Do?",
+    "subtitle": "We'll build you a custom AI receptionist demo — trained on your business, in your language, handling your real scenarios.",
+    "description": "Free. No strings. <span class=\"font-semibold\">You keep it either way.</span>",
+    "offer": "We build the demo, you test it with real scenarios. If you want to keep it running — we'll talk. Either way, you walk away with proof of what AI can do for your business.",
+    "cta": "Get My Free AI Receptionist Demo",
+    "limitation": "Only 4 spots available this quarter."
   },
   "whyWorkWithMe": {
-    "title": "Why I'm not like other consultants?",
-    "description": "While traditional agencies bill you 120 hours for what can be done in 20, I build AI systems that work 24/7 while you do other things. No more bureaucratic theater or inflated billing. Just results that give you your freedom back.",
-    "primaryButton": "I want my freedom",
-    "secondaryButton": "Calculate my savings",
+    "title": "Built for Businesses That Build Things",
+    "description": "4+ years. 40+ projects. $50k+ saved for clients — not by selling more software, but by making what they already have work together. Developer, systems architect, bilingual (FR/EN). Not an agency. Just results.",
+    "primaryButton": "Spot 5 High-ROI Opportunities",
+    "secondaryButton": "See Client Results",
     "stats": {
       "years": {
         "value": "4+",
         "label": "Years automating service businesses"
       },
       "projects": {
-        "value": "40h+",
-        "label": "Saved per month for my clients"
+        "value": "40+",
+        "label": "Projects delivered"
       },
       "satisfaction": {
         "value": "$50K+",
-        "label": "In protected revenue annually"
+        "label": "Saved for clients annually"
       }
     }
   },
   "cta": {
-    "title": "In 5 years, there will be two types of entrepreneurs",
-    "description": "Those who orchestrate with AI... and those still burning out doing manually what a machine can do in 2 minutes.",
-    "primaryButton": "I choose to orchestrate"
-  },
-  "servicesSection": {
-    "title": "Our quiet revolutions",
-    "subtitle": "The ways we return your time, your calm, and your peace.",
-    "voiceagent": {
-      "eyebrow": "Voiceagent",
-      "title": "A voice that never sleeps",
-      "description": "Your phone rings. A warm, intelligent voice answers, understands, qualifies, and books — all while you're in deep work or simply resting. Customers feel heard. You feel free."
-    },
-    "contentAccelerator": {
-      "eyebrow": "AI Content Accelerator",
-      "title": "From spark to finished pieces",
-      "description": "Drop a raw idea into Notion. The AI enriches the outline, writes multiple drafts and suggests visuals. You refine, ship and it even improves overtime— never to start from zero."
-    },
-    "automation": {
-      "eyebrow": "Custom AI Solutions",
-      "title": "Invisible systems that run your business",
-      "description": "We find the loops that drain you — emails, scheduling, follow-ups, data entry — and replace them with intelligent automations that work perfectly, silently, forever."
-    },
-    "chatAgent": {
-      "eyebrow": "Chat Agent",
-      "title": "Always there, never overwhelming",
-      "description": "A conversation partner for your customers that feels human, remembers context, solves problems, and closes sales — 24 hours a day."
-    },
-    "closingLine": "Everything we build is designed to help you get back to doing what you love."
+    "title": "Your Business Deserves Better Than Duct Tape.",
+    "description": "Stop patching. Start building. Let's find 5 high-ROI opportunities in your business — free, 30 minutes.",
+    "primaryButton": "Spot 5 High-ROI Opportunities — Free, 30 min"
   }
 }

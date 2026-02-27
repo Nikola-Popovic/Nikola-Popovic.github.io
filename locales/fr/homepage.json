@@ -54,6 +54,10 @@
       ]
     }
   },
+  "urgency": {
+    "header": "Chaque heure que ton équipe passe à faire de la saisie manuelle, ce sont des dollars {{highlight}}.",
+    "highlight": "volés à tes marges"
+  },
   "beforeAfter": {
     "title": "La Transformation",
     "beforeLabel": "Avant",

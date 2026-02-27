@@ -3,7 +3,7 @@
     "eyebrow": "For growing businesses stuck in operational chaos",
     "title": "Your Business Runs on Duct Tape and Spreadsheets.",
     "subtitle": "Let's Fix That.",
-    "description": "We build the systems, automations, and AI tools that let you stop firefighting and start scaling — without hiring an army.",
+    "description": "We build the systems, automations and tools that let you stop firefighting and start scaling — without hiring an army.",
     "primaryButton": "Spot 5 High-ROI Opportunities — Free, 30 min",
     "qualifier": "For growing businesses (5–50 people) who've outgrown spreadsheets but aren't ready for enterprise software."
   },
@@ -65,6 +65,10 @@
       { "before": "2 hours/day on email", "after": "Auto-categorized, auto-drafted" },
       { "before": "\"How do we do this again?\"", "after": "Documented, repeatable, and hands-off" }
     ]
+  },
+  "urgency": {
+    "header": "Every hour your team spends on manual entry is dollars {{highlight}}.",
+    "highlight": "stolen from your margins"
   },
   "howItWorks": {
     "header": "Three Phases. {{highlight}}.",

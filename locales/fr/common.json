@@ -1,8 +1,9 @@
 {
   "bookingModal": {
-    "button": "Je veux récupérer ma liberté",
-    "shortened": "Récupérer ma liberté",
-    "freeVoiceAgent": "Obtenir mon agent gratuit"
+    "button": "Je veux mes 3 opportunités",
+    "shortened": "Mes 3 opportunités gratuites",
+    "revenueOpportunities": "Montre-moi mes 3 opportunités",
+    "ctaPrimary": "Réserver mon appel gratuit"
   },
   "navbar": {
     "home": "Accueil",
@@ -10,7 +11,7 @@
     "product": "Libsante",
     "blog": "Blog",
     "blogTooltip": "En construction...",
-    "reserve": "Réserver",
+    "reserve": "Mes 3 opportunités",
     "servicesMenu": {
       "oneWeekOffer": "Offre Une Semaine",
       "growthPartnership": "Partenariat de Croissance",
@@ -41,4 +42,4 @@
     "listeningText": "Écoute...",
     "speakingText": "L'assistant parle"
   }
-} 
+}

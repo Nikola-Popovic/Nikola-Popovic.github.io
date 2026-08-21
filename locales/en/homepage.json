@@ -1,29 +1,27 @@
 {
   "hero": {
-    "eyebrow": "For growing businesses stuck in operational chaos",
-    "title": "Your Business Runs on Duct Tape and Spreadsheets.",
-    "subtitle": "Let's Fix That.",
-    "description": "We build the systems, automations and tools that let you stop firefighting and start scaling — without hiring an army.",
-    "primaryButton": "Spot 5 High-ROI Opportunities — Free, 30 min",
-    "qualifier": "For growing businesses (5–50 people) who've outgrown spreadsheets but aren't ready for enterprise software."
+    "eyebrow": "For businesses with 5 to 50 employees",
+    "title": "You've outgrown your systems.",
+    "subtitle": "Not your ambition.",
+    "description": "Tools that don't talk to each other, scattered client info, a team drowning in email. I connect, automate, and add AI — 5 years, 20+ companies, 15h+ given back every week."
   },
   "problemSection": {
-    "hookTitles": ["Sound Familiar?", "Does This Ring a Bell?", "We've Seen This Before."],
+    "hookTitles": ["Ever said this to yourself?", "Sound familiar?", "We've all said it."],
     "pains": [
-      "Client info lives in 5 places. None of them agree.",
-      "Your team spends half the day on email instead of real work.",
-      "You bought 6 tools. They don't talk to each other.",
-      "You want to scale but can't even document how things work today."
+      { "main": "\"Where's the client file, again?\"", "aside": "In 5 tools. None of them current." },
+      { "main": "\"I didn't have time.\"", "aside": "Half the day went to email." },
+      { "main": "\"We have a tool for that.\"", "aside": "It doesn't talk to any of the other 5." },
+      { "main": "\"How did we do this again?\"", "aside": "Nowhere written down." }
     ],
-    "closing": "This isn't a tech problem. It's a structure problem."
+    "closing": "Not a tech problem. A bill you don't see."
   },
   "servicesSection": {
     "title": "Connect. Automate. Augment.",
-    "subtitle": "From scattered operations to a connected, intelligent business.",
+    "subtitle": "From organized chaos to a business that runs itself.",
     "connect": {
       "eyebrow": "Tier 1",
-      "title": "CONNECT — Get Your House in Order",
-      "description": "One CRM. One source of truth. Apps that actually talk to each other. We clean up your data, connect your tools, and give your team a system that reflects reality — not five conflicting spreadsheets.",
+      "title": "CONNECT — One Source of Truth",
+      "description": "One CRM. One source of truth. Apps that talk to each other. I clean your data, connect your tools, and build a system that reflects reality — not five spreadsheets.",
       "outcomes": [
         "CRM setup and migration",
         "App integrations (your tools, connected)",
@@ -33,8 +31,8 @@
     },
     "automate": {
       "eyebrow": "Tier 2",
-      "title": "AUTOMATE — Stop Doing the Robot's Job",
-      "description": "If a human shouldn't be doing it, a human shouldn't be doing it. We build automations that handle email triage, follow-ups, task routing, and data entry — so your team focuses on work that actually needs a brain.",
+      "title": "AUTOMATE — Take the Busywork Off Your Plate",
+      "description": "I build automations that handle email triage, follow-ups, task routing, and data entry — so your team spends time on the calls, decisions, and relationships that actually need a person.",
       "outcomes": [
         "Email categorization and auto-drafts",
         "Lead follow-up sequences",
@@ -45,7 +43,7 @@
     "augment": {
       "eyebrow": "Tier 3",
       "title": "AUGMENT — Add Intelligence to the Mix",
-      "description": "With your systems connected and your processes automated, we layer in AI that handles real work. Calls answered 24/7. Client questions handled instantly. Your team's knowledge, searchable in seconds.",
+      "description": "With your systems connected and your processes automated, I layer in AI that handles real work. Calls answered 24/7. Client questions handled instantly. Your team's knowledge, searchable in seconds.",
       "outcomes": [
         "AI receptionist (inbound/outbound, bilingual)",
         "Chat agent trained on your business",
@@ -67,62 +65,72 @@
     ]
   },
   "urgency": {
-    "header": "Every hour your team spends on manual entry is dollars {{highlight}}.",
-    "highlight": "stolen from your margins"
+    "header": "Your margin has a leak. {{highlight}}",
+    "highlight": "Manual data entry, one hour at a time."
   },
   "howItWorks": {
-    "header": "Three Phases. {{highlight}}.",
-    "highlight": "Real Results",
+    "header": "Three Phases. {{highlight}}",
+    "highlight": "Real Results.",
     "steps": [
       {
         "label": "MAP",
-        "title": "We map your operations",
-        "subtitle": "We map your tools, data flows, and bottlenecks. You get a prioritized list of high-ROI quick wins — not a 40-page report. (Week 1–2)"
+        "title": "A map, not a report.",
+        "subtitle": "Your tools, your bottlenecks, 3 quick wins identified. (Weeks 1–2)"
       },
       {
         "label": "BUILD",
-        "title": "We build your systems",
-        "subtitle": "We implement systems, integrations, and automations. You see progress weekly. Your team learns as we go. (Week 3–6)"
+        "title": "A system, not a promise.",
+        "subtitle": "Automations delivered and tested, one at a time. (Weeks 3–6)"
       },
       {
         "label": "AMPLIFY",
-        "title": "We add intelligence",
-        "subtitle": "With the foundation solid, we layer in AI — voice agents, chat, smart search — that multiply your capacity without multiplying headcount. (Week 6–8+)"
+        "title": "AI, not a gadget.",
+        "subtitle": "Voice agents and smart search, built on a foundation that holds. (Weeks 6–8+)"
       }
     ]
   },
-  "voiceAgentOffer": {
-    "eyebrow": "Free Demo",
-    "title": "Want to See What AI Can Actually Do?",
-    "subtitle": "We'll build you a custom AI receptionist demo — trained on your business, in your language, handling your real scenarios.",
-    "description": "Free. No strings. <span class=\"font-semibold\">You keep it either way.</span>",
-    "offer": "We build the demo, you test it with real scenarios. If you want to keep it running — we'll talk. Either way, you walk away with proof of what AI can do for your business.",
-    "cta": "Get My Free AI Receptionist Demo",
-    "limitation": "Only 4 spots available this quarter."
+  "revenueOpportunities": {
+    "eyebrow": "Free 30-Minute Call",
+    "title": "3 Revenue Opportunities, Mapped to Your Business",
+    "subtitle": "On a free 30-minute call, I map 3 ways automation or AI could unlock revenue or time in your business.",
+    "items": [
+      {
+        "title": "Slow Follow-Up Leaks Revenue",
+        "description": "Leads wait hours or days for a reply — and you lose deals."
+      },
+      {
+        "title": "Manual Work Locks Capacity",
+        "description": "Your best people lose hours to data entry and admin."
+      },
+      {
+        "title": "Demand Missed After Hours",
+        "description": "Calls and messages after hours sit unanswered until Monday."
+      }
+    ],
+    "process": "On the call, I learn how your business runs, then map 3 opportunities specific to it — no pitch.",
+    "eligibility": "This fits businesses with 5 to 50 people who've outgrown spreadsheets. A quick form confirms fit first.",
+    "fineprint": "The 3 opportunities are yours, whether or not we work together."
   },
   "whyWorkWithMe": {
-    "title": "Built for Businesses That Build Things",
-    "description": "4+ years. 40+ projects. $50k+ saved for clients — not by selling more software, but by making what they already have work together. Developer, systems architect, bilingual (FR/EN). Not an agency. Just results.",
-    "primaryButton": "Spot 5 High-ROI Opportunities",
-    "secondaryButton": "See Client Results",
+    "title": "I make what you already own work together.",
+    "description": "Not more software — systems that actually work together, and a team that trusts them. Developer, systems architect, bilingual (FR/EN). Not an agency. Just results.",
     "stats": {
       "years": {
-        "value": "4+",
+        "value": "5+",
         "label": "Years automating service businesses"
       },
       "projects": {
-        "value": "40+",
-        "label": "Projects delivered"
+        "value": "20+",
+        "label": "Companies I've worked with"
       },
-      "satisfaction": {
-        "value": "$50K+",
-        "label": "Saved for clients annually"
+      "timeSaved": {
+        "value": "15h+",
+        "label": "Given back per client weekly"
       }
     }
   },
   "cta": {
-    "title": "Your Business Deserves Better Than Duct Tape.",
-    "description": "Stop patching. Start building. Let's find 5 high-ROI opportunities in your business — free, 30 minutes.",
-    "primaryButton": "Spot 5 High-ROI Opportunities — Free, 30 min"
+    "title": "You've outgrown your systems. Let's plug the leak.",
+    "description": "30 minutes, zero pitch. I map 3 revenue or time opportunities specific to your business — yours whether we work together or not."
   }
 }

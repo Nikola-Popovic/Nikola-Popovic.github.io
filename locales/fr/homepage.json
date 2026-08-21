@@ -1,29 +1,27 @@
 {
   "hero": {
-    "eyebrow": "Pour les entreprises en croissance prises dans le chaos opérationnel",
-    "title": "Ton entreprise tient avec du scotch et des tableurs.",
-    "subtitle": "On va arranger ça.",
-    "description": "On construit les systèmes, automatisations et outils IA qui te permettent de passer de la gestion de crise à la vraie croissance — sans embaucher une armée.",
-    "primaryButton": "Trouver 5 opportunités à fort ROI — Gratuit, 30 min",
-    "qualifier": "Pour les entreprises en croissance (5–50 personnes) qui ont dépassé les tableurs mais ne sont pas prêtes pour les logiciels d'entreprise."
+    "eyebrow": "Pour les entreprises de 5 à 50 employés",
+    "title": "Tu as dépassé tes systèmes.",
+    "subtitle": "Pas ton ambition.",
+    "description": "Outils muets entre eux, infos clients éparpillées, équipe noyée dans les e-mails. Je connecte, j'automatise, j'ajoute l'IA — 5 ans, 20+ entreprises, 15h+ récupérées par semaine."
   },
   "problemSection": {
-    "hookTitles": ["Ça te parle ?", "Tu t'y reconnais ?", "C'est ton quotidien ?"],
+    "hookTitles": ["Tu t'es déjà dit ça ?", "Ça sonne familier ?", "On se le dit tous."],
     "pains": [
-      "Les infos clients sont dans 5 endroits différents. Aucun ne correspond.",
-      "Ton équipe passe la moitié de la journée sur les e-mails au lieu du vrai travail.",
-      "Tu as acheté 6 outils. Ils ne se parlent pas.",
-      "Tu veux croître mais tu ne peux même pas documenter comment les choses fonctionnent aujourd'hui."
+      { "main": "« Où est le dossier du client ? »", "aside": "Dans 5 outils. Aucun à jour." },
+      { "main": "« J'ai pas eu le temps. »", "aside": "La moitié de la journée est partie en e-mails." },
+      { "main": "« On a un outil pour ça. »", "aside": "Il ne parle à aucun des 5 autres." },
+      { "main": "« Comment on faisait, déjà ? »", "aside": "Nulle part d'écrit." }
     ],
-    "closing": "Ce n'est pas un problème de technologie. C'est un problème de structure."
+    "closing": "Pas un problème technique. Une facture que tu ne vois pas."
   },
   "servicesSection": {
     "title": "Connecter. Automatiser. Augmenter.",
-    "subtitle": "Des opérations dispersées à une entreprise connectée et intelligente.",
+    "subtitle": "Du chaos organisé à une entreprise qui tourne seule.",
     "connect": {
       "eyebrow": "Niveau 1",
-      "title": "CONNECTER — Mettre de l'ordre dans la maison",
-      "description": "Un seul CRM. Une seule source de vérité. Des outils qui se parlent vraiment. On nettoie tes données, connecte tes outils et donne à ton équipe un système qui reflète la réalité — pas cinq tableurs contradictoires.",
+      "title": "CONNECTER — Une seule source de vérité",
+      "description": "Un seul CRM. Une seule source de vérité. Je nettoie tes données, connecte tes outils, et bâtis un système fidèle à la réalité — pas cinq tableurs.",
       "outcomes": [
         "Configuration et migration CRM",
         "Intégrations d'applications (tes outils, connectés)",
@@ -33,8 +31,8 @@
     },
     "automate": {
       "eyebrow": "Niveau 2",
-      "title": "AUTOMATISER — Arrêter de faire le boulot du robot",
-      "description": "Si un humain ne devrait pas le faire, un humain ne devrait pas le faire. On construit des automatisations qui gèrent le triage des e-mails, les relances, le routage des tâches et la saisie de données — pour que ton équipe se concentre sur ce qui demande vraiment un cerveau.",
+      "title": "AUTOMATISER — Retirer les tâches répétitives",
+      "description": "Je construis des automatisations pour le triage des e-mails, les relances, le routage des tâches et la saisie de données — pour libérer ton équipe pour l'essentiel.",
       "outcomes": [
         "Catégorisation d'e-mails et brouillons automatiques",
         "Séquences de relance des prospects",
@@ -45,7 +43,7 @@
     "augment": {
       "eyebrow": "Niveau 3",
       "title": "AUGMENTER — Ajouter de l'intelligence",
-      "description": "Avec tes systèmes connectés et tes processus automatisés, on ajoute une couche d'IA qui gère du vrai travail. Appels répondus 24h/24. Questions clients traitées instantanément. Les connaissances de ton équipe, trouvables en secondes.",
+      "description": "Avec tes systèmes connectés et tes processus automatisés, j'ajoute une couche d'IA qui gère du vrai travail. Appels répondus 24h/24. Questions clients traitées instantanément. Ton savoir, trouvable en secondes.",
       "outcomes": [
         "Réceptionniste IA (entrant/sortant, bilingue)",
         "Agent de chat formé sur ton entreprise",
@@ -53,10 +51,6 @@
         "Rapports et insights assistés par IA"
       ]
     }
-  },
-  "urgency": {
-    "header": "Chaque heure que ton équipe passe à faire de la saisie manuelle, ce sont des dollars {{highlight}}.",
-    "highlight": "volés à tes marges"
   },
   "beforeAfter": {
     "title": "La Transformation",
@@ -70,59 +64,73 @@
       { "before": "\"Comment on fait ça déjà ?\"", "after": "Documenté, reproductible, et automatique" }
     ]
   },
+  "urgency": {
+    "header": "Ta marge a une fuite. {{highlight}}",
+    "highlight": "La saisie manuelle, une heure à la fois."
+  },
   "howItWorks": {
-    "header": "Trois phases. {{highlight}}.",
-    "highlight": "De vrais résultats",
+    "header": "Trois phases. {{highlight}}",
+    "highlight": "De vrais résultats.",
     "steps": [
       {
         "label": "CARTOGRAPHIER",
-        "title": "On cartographie tes opérations",
-        "subtitle": "On cartographie tes outils, flux de données et points de blocage. Tu reçois une liste priorisée d'opportunités à fort ROI — pas un rapport de 40 pages. (Semaines 1–2)"
+        "title": "D'abord, j'identifie les trous.",
+        "subtitle": "Tu repars avec des gains rapides. (Semaines 1–2)"
       },
       {
         "label": "CONSTRUIRE",
-        "title": "On construit tes systèmes",
-        "subtitle": "On implémente les systèmes, intégrations et automatisations. Tu vois les progrès chaque semaine. Ton équipe apprend au fur et à mesure. (Semaines 3–6)"
+        "title": "Ensuite, je construis.",
+        "subtitle": "Les systèmes et automatisations prennent forme sous tes yeux. (Semaines 3–6)"
       },
       {
         "label": "AMPLIFIER",
-        "title": "On ajoute de l'intelligence",
-        "subtitle": "Avec les bases solides, on ajoute l'IA — agents vocaux, chat, recherche intelligente — qui multiplient ta capacité sans multiplier les effectifs. (Semaines 6–8+)"
+        "title": "Enfin, j'amplifie.",
+        "subtitle": "L'IA prend le relais sur ce qui peut l'être. (Semaines 6–8+)"
       }
     ]
   },
-  "voiceAgentOffer": {
-    "eyebrow": "Démo Gratuite",
-    "title": "Tu veux voir ce que l'IA peut vraiment faire ?",
-    "subtitle": "On te construit une démo de réceptionniste IA personnalisée — formée sur ton entreprise, dans ta langue, gérant tes vrais scénarios.",
-    "description": "Gratuit. Sans conditions. <span class=\"font-semibold\">Tu la gardes dans tous les cas.</span>",
-    "offer": "On construit la démo, tu la testes avec de vrais scénarios. Si tu veux la conserver — on en parle. Dans tous les cas, tu repars avec la preuve de ce que l'IA peut faire pour ton entreprise.",
-    "cta": "Obtenir ma démo de réceptionniste IA gratuite",
-    "limitation": "Seulement 4 places disponibles ce trimestre."
+  "revenueOpportunities": {
+    "eyebrow": "Appel gratuit de 30 minutes",
+    "title": "3 opportunités de revenu, propres à ton entreprise",
+    "subtitle": "Lors d'un appel gratuit de 30 minutes, je cartographie 3 façons de gagner du revenu ou du temps.",
+    "items": [
+      {
+        "title": "Suivis lents, revenu perdu",
+        "description": "Tes prospects attendent des jours — et tu perds des ventes."
+      },
+      {
+        "title": "Travail manuel, capacité bloquée",
+        "description": "Tes meilleures personnes perdent des heures en saisie et admin."
+      },
+      {
+        "title": "Demande manquée hors horaires",
+        "description": "Les appels hors horaires attendent lundi, sans réponse."
+      }
+    ],
+    "process": "Pendant l'appel, j'apprends comment ton entreprise fonctionne, puis je cartographie 3 opportunités précises. Pas de pitch.",
+    "eligibility": "Ça convient aux entreprises de 5 à 50 personnes. Un court formulaire confirme le fit d'abord.",
+    "fineprint": "Les 3 opportunités sont à toi, qu'on travaille ensemble ou non."
   },
   "whyWorkWithMe": {
-    "title": "Fait pour les entreprises qui construisent des choses",
-    "description": "4+ ans. 40+ projets. 50k$+ économisés pour les clients — pas en vendant plus de logiciels, mais en faisant fonctionner ensemble ce qu'ils ont déjà. Développeur, architecte de systèmes, bilingue (FR/EN). Pas une agence. Juste des résultats.",
-    "primaryButton": "Trouver 5 opportunités à fort ROI",
-    "secondaryButton": "Voir les résultats clients",
+    "title": "Je fais fonctionner ensemble ce que tu as déjà.",
+    "description": "Pas plus de logiciels — des systèmes qui fonctionnent vraiment ensemble, et une équipe qui leur fait confiance. Développeur, architecte de systèmes, bilingue (FR/EN). Pas une agence. Juste des résultats.",
     "stats": {
       "years": {
-        "value": "4+",
-        "label": "Années à automatiser des entreprises de services"
+        "value": "5+",
+        "label": "Années à automatiser des entreprises"
       },
       "projects": {
-        "value": "40+",
-        "label": "Projets livrés"
+        "value": "20+",
+        "label": "Entreprises accompagnées"
       },
-      "satisfaction": {
-        "value": "50k$+",
-        "label": "Économisés pour les clients annuellement"
+      "timeSaved": {
+        "value": "15h+",
+        "label": "Redonnées par client, chaque semaine"
       }
     }
   },
   "cta": {
-    "title": "Ton entreprise mérite mieux que du scotch.",
-    "description": "Arrête de colmater. Commence à construire. Trouvons 5 opportunités à fort ROI dans ton entreprise — gratuitement, en 30 minutes.",
-    "primaryButton": "Trouver 5 opportunités à fort ROI — Gratuit, 30 min"
+    "title": "Rien à perdre, 3 opportunités à gagner.",
+    "description": "30 minutes, zéro pitch. Je cartographie 3 opportunités de revenu ou de temps propres à ton entreprise — à toi, qu'on travaille ensemble ou non."
   }
 }

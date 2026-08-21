@@ -1,8 +1,9 @@
 {
   "bookingModal": {
-    "button": "I Want My Freedom Map",
-    "shortened": "Get my freedom map",
-    "freeVoiceAgent": "Get my free custom agent"
+    "button": "I Want My 3 Opportunities",
+    "shortened": "Get My 3 Free Opportunities",
+    "revenueOpportunities": "Show Me My 3 Opportunities",
+    "ctaPrimary": "Book My Free 30-Minute Call"
   },
   "navbar": {
     "home": "Home",
@@ -10,7 +11,7 @@
     "product": "Libsante",
     "blog": "Blog",
     "blogTooltip": "In construction...",
-    "reserve": "I want my free consultation",
+    "reserve": "Get My 3 Opportunities",
     "servicesMenu": {
       "oneWeekOffer": "One Week Offer",
       "growthPartnership": "Growth Partnership",
@@ -41,4 +42,4 @@
     "listeningText": "Listening...",
     "speakingText": "Assistant speaking"
   }
-} 
+}

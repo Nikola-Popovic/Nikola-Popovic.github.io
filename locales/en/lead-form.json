@@ -1,0 +1,106 @@
+{
+  "steps": {
+    "you": {
+      "title": "Let's start with you",
+      "subtitle": "So I know who I'll be talking to."
+    },
+    "business": {
+      "title": "Your business",
+      "subtitle": "A quick snapshot to prepare our call."
+    },
+    "pain": {
+      "title": "What's slowing you down",
+      "subtitle": "The more specific you are, the more useful our call will be."
+    }
+  },
+  "progress": "Step {{current}} of {{total}}",
+  "fields": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone number",
+    "company": "Company name",
+    "website": "Company website",
+    "revenue": "Annual revenue",
+    "teamSize": "Team size",
+    "painAreas": "Where does it hurt the most?",
+    "painAreasHint": "Select all that apply",
+    "painDescription": "Describe the process that eats the most of your time",
+    "painCost": "What has it cost you so far?",
+    "painCostHint": "Select all that apply"
+  },
+  "placeholders": {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane@company.com",
+    "phone": "514 555-1234",
+    "company": "Acme Inc.",
+    "website": "acme.com",
+    "painDescription": "e.g. Every new lead is copied by hand from our website into the CRM, then into a spreadsheet for follow-up..."
+  },
+  "options": {
+    "revenue": {
+      "under_100k": "Under $100k",
+      "100k_300k": "$100k - $300k",
+      "300k_1m": "$300k - $1M",
+      "1m_5m": "$1M - $5M",
+      "5m_plus": "$5M+"
+    },
+    "teamSize": {
+      "solo": "Just me",
+      "2_5": "2-5",
+      "6_20": "6-20",
+      "21_50": "21-50",
+      "50_plus": "50+"
+    },
+    "painAreas": {
+      "lead_followup": "Lead follow-up and sales",
+      "onboarding": "Client onboarding",
+      "scheduling": "Scheduling",
+      "invoicing": "Invoicing and payments",
+      "data_entry": "Data entry / copy-paste between tools",
+      "support": "Customer support",
+      "reporting": "Reporting",
+      "other": "Other"
+    },
+    "painCost": {
+      "missed_leads": "Missed or slow follow-up on leads",
+      "errors": "Errors and rework",
+      "burnout": "Team burnout",
+      "cant_scale": "Can't grow without hiring",
+      "owner_time": "My own time"
+    }
+  },
+  "errors": {
+    "required": "This field is required.",
+    "email": "Enter a valid email.",
+    "phone": "Enter a valid phone number (10 digits).",
+    "url": "Enter a valid website, e.g. acme.com."
+  },
+  "actions": {
+    "next": "Next",
+    "back": "Back",
+    "submit": "Send",
+    "submitting": "Sending...",
+    "confirm": "Book {{when}}",
+    "confirmNoSlot": "Pick a time",
+    "booking": "Booking..."
+  },
+  "submitError": "Something went wrong. Please try again or email me at {{email}}.",
+  "slots": {
+    "title": "Thanks {{firstName}}! Pick a time for our call",
+    "titleNoName": "Pick a time for our call",
+    "subtitle": "A 25-minute video call to look at your processes together.",
+    "loading": "Loading available times...",
+    "empty": "No times are available right now. Email me at <mailTo>{{email}}</mailTo> and we'll find one.",
+    "timezone": "Times shown in {{zone}}",
+    "taken": "That time was just taken. Please pick another one.",
+    "failed": "The booking didn't go through. Please try again.",
+    "previousMonth": "Previous month",
+    "nextMonth": "Next month"
+  },
+  "fallback": {
+    "title": "Pick a time for our call",
+    "subtitle": "Choose the time that works best for you below."
+  }
+}

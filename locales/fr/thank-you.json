@@ -1,6 +1,7 @@
 {
     "title": "Merci !",
     "description": "Votre soumission a bien été reçue. Je vais examiner vos informations et vous répondre dans un délai de 1 à 2 jours ouvrables.",
+    "booked": "Votre appel est réservé pour le {{when}} (heure locale). Une confirmation s'en vient dans votre boîte courriel.",
     "questions": "Pour toute question, n'hésitez pas à me contacter à {{email}}",
     "button": "Retour à la page d'accueil"
 }

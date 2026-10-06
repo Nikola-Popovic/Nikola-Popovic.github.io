@@ -1,0 +1,106 @@
+{
+  "steps": {
+    "you": {
+      "title": "Commençons par vous",
+      "subtitle": "Pour savoir à qui je vais parler."
+    },
+    "business": {
+      "title": "Votre entreprise",
+      "subtitle": "Un bref portrait pour préparer notre appel."
+    },
+    "pain": {
+      "title": "Ce qui vous ralentit",
+      "subtitle": "Plus vous êtes précis, plus notre appel sera utile."
+    }
+  },
+  "progress": "Étape {{current}} sur {{total}}",
+  "fields": {
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Courriel",
+    "phone": "Téléphone",
+    "company": "Nom de l'entreprise",
+    "website": "Site web de l'entreprise",
+    "revenue": "Chiffre d'affaires annuel",
+    "teamSize": "Taille de l'équipe",
+    "painAreas": "Où est-ce que ça fait le plus mal?",
+    "painAreasHint": "Choisissez tout ce qui s'applique",
+    "painDescription": "Décrivez le processus qui vous prend le plus de temps",
+    "painCost": "Qu'est-ce que ça vous a coûté jusqu'ici?",
+    "painCostHint": "Choisissez tout ce qui s'applique"
+  },
+  "placeholders": {
+    "firstName": "Julie",
+    "lastName": "Tremblay",
+    "email": "julie@entreprise.com",
+    "phone": "514 555-1234",
+    "company": "Acme inc.",
+    "website": "acme.com",
+    "painDescription": "ex. Chaque nouveau lead est copié à la main du site web vers le CRM, puis dans un tableur pour le suivi..."
+  },
+  "options": {
+    "revenue": {
+      "under_100k": "Moins de 100 k$",
+      "100k_300k": "100 k$ - 300 k$",
+      "300k_1m": "300 k$ - 1 M$",
+      "1m_5m": "1 M$ - 5 M$",
+      "5m_plus": "5 M$ et +"
+    },
+    "teamSize": {
+      "solo": "Juste moi",
+      "2_5": "2-5",
+      "6_20": "6-20",
+      "21_50": "21-50",
+      "50_plus": "50+"
+    },
+    "painAreas": {
+      "lead_followup": "Suivi des leads et ventes",
+      "onboarding": "Intégration des clients",
+      "scheduling": "Prise de rendez-vous",
+      "invoicing": "Facturation et paiements",
+      "data_entry": "Saisie de données / copier-coller entre outils",
+      "support": "Service client",
+      "reporting": "Rapports",
+      "other": "Autre"
+    },
+    "painCost": {
+      "missed_leads": "Leads manqués ou suivis trop tard",
+      "errors": "Erreurs et reprises",
+      "burnout": "Épuisement de l'équipe",
+      "cant_scale": "Impossible de croître sans embaucher",
+      "owner_time": "Mon propre temps"
+    }
+  },
+  "errors": {
+    "required": "Ce champ est requis.",
+    "email": "Entrez un courriel valide.",
+    "phone": "Entrez un numéro de téléphone valide (10 chiffres).",
+    "url": "Entrez un site web valide, ex. acme.com."
+  },
+  "actions": {
+    "next": "Suivant",
+    "back": "Retour",
+    "submit": "Envoyer",
+    "submitting": "Envoi...",
+    "confirm": "Réserver {{when}}",
+    "confirmNoSlot": "Choisissez une heure",
+    "booking": "Réservation..."
+  },
+  "submitError": "Une erreur est survenue. Réessayez ou écrivez-moi à {{email}}.",
+  "slots": {
+    "title": "Merci {{firstName}}! Choisissez un moment pour notre appel",
+    "titleNoName": "Choisissez un moment pour notre appel",
+    "subtitle": "Un appel vidéo de 25 minutes pour regarder vos processus ensemble.",
+    "loading": "Chargement des disponibilités...",
+    "empty": "Aucune disponibilité pour le moment. Écrivez-moi à <mailTo>{{email}}</mailTo> et on trouvera un moment.",
+    "timezone": "Heures affichées en {{zone}}",
+    "taken": "Ce moment vient d'être réservé. Choisissez-en un autre.",
+    "failed": "La réservation n'a pas fonctionné. Réessayez.",
+    "previousMonth": "Mois précédent",
+    "nextMonth": "Mois suivant"
+  },
+  "fallback": {
+    "title": "Choisissez un moment pour notre appel",
+    "subtitle": "Sélectionnez le moment qui vous convient ci-dessous."
+  }
+}

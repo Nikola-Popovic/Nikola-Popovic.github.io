@@ -1,19 +1,35 @@
 {
   "hero": {
-    "eyebrow": "For businesses with 5 to 50 employees",
-    "title": "You've outgrown your systems.",
-    "subtitle": "Not your ambition.",
-    "description": "Tools that don't talk to each other, scattered client info, a team drowning in email. I connect, automate, and add AI — 5 years, 20+ companies, 15h+ given back every week."
+    "eyebrow": "For clinic owners",
+    "title": "Your front desk finally keeps up.",
+    "subtitle": "So does your data.",
+    "description": "Recalls, cancellations, messages: I lighten the admin and document where every piece of data goes."
   },
   "problemSection": {
-    "hookTitles": ["Ever said this to yourself?", "Sound familiar?", "We've all said it."],
-    "pains": [
-      { "main": "\"Where's the client file, again?\"", "aside": "In 5 tools. None of them current." },
-      { "main": "\"I didn't have time.\"", "aside": "Half the day went to email." },
-      { "main": "\"We have a tool for that.\"", "aside": "It doesn't talk to any of the other 5." },
-      { "main": "\"How did we do this again?\"", "aside": "Nowhere written down." }
+    "hookTitles": [
+      "Sound familiar?",
+      "You too?",
+      "An ordinary Tuesday."
     ],
-    "closing": "Not a tech problem. A bill you don't see."
+    "pains": [
+      {
+        "main": "\"The 2 o'clock just cancelled. Who do we call?\"",
+        "aside": "Nobody has time to look."
+      },
+      {
+        "main": "\"Did she write on Messenger or by email?\"",
+        "aside": "One message, two places."
+      },
+      {
+        "main": "\"Recalls? I'll do them tonight.\"",
+        "aside": "It won't happen between patients."
+      },
+      {
+        "main": "\"I just pasted it into ChatGPT. Without the name.\"",
+        "aside": "The knee, the job and the town are still there."
+      }
+    ],
+    "closing": "Your front desk isn't slow. It's holding everything up."
   },
   "servicesSection": {
     "title": "Connect. Automate. Augment.",
@@ -53,84 +69,151 @@
     }
   },
   "beforeAfter": {
-    "title": "The Transformation",
+    "title": "An ordinary Tuesday",
     "beforeLabel": "Before",
     "afterLabel": "After",
     "rows": [
-      { "before": "6 tools that don't talk to each other", "after": "Tools that actually work together" },
-      { "before": "Manual data entry between apps", "after": "Automations that handle it for you" },
-      { "before": "Client data scattered across Excel files", "after": "One CRM, one source of truth" },
-      { "before": "2 hours/day on email", "after": "Auto-categorized, auto-drafted" },
-      { "before": "\"How do we do this again?\"", "after": "Documented, repeatable, and hands-off" }
+      {
+        "before": "A call missed during a treatment",
+        "after": "It's on the list, and the desk knows who to call back"
+      },
+      {
+        "before": "A 1:30 cancellation, and a scramble to fill it",
+        "after": "Your waitlist is on and ready to use"
+      },
+      {
+        "before": "Every appointment goes through the phone",
+        "after": "Patients can book online"
+      },
+      {
+        "before": "An improvised voicemail greeting",
+        "after": "A clear message, in French and English"
+      },
+      {
+        "before": "Nobody knows who has access to what",
+        "after": "You know where your information travels"
+      }
     ]
   },
   "urgency": {
-    "header": "Your margin has a leak. {{highlight}}",
-    "highlight": "Manual data entry, one hour at a time."
+    "header": "Two leaks. {{highlight}}",
+    "highlight": "Calls that get lost. Data you can't see anymore."
   },
   "howItWorks": {
-    "header": "Three Phases. {{highlight}}",
-    "highlight": "Real Results.",
+    "header": "Three steps. {{highlight}}",
+    "highlight": "We start with what you already pay for.",
     "steps": [
       {
-        "label": "MAP",
-        "title": "A map, not a report.",
-        "subtitle": "Your tools, your bottlenecks, 3 quick wins identified. (Weeks 1–2)"
+        "label": "REVIEW",
+        "title": "The Front Desk Review.",
+        "subtitle": "Free, 30 minutes. What you pay for but don't use, where your calls get lost, and 3 fixes for Monday."
       },
       {
-        "label": "BUILD",
-        "title": "A system, not a promise.",
-        "subtitle": "Automations delivered and tested, one at a time. (Weeks 3–6)"
+        "label": "SETUP",
+        "title": "The Front Desk Setup.",
+        "subtitle": "One time, fixed price. I turn on what you already have and write your phone menu and voicemail message."
       },
       {
-        "label": "AMPLIFY",
-        "title": "AI, not a gadget.",
-        "subtitle": "Voice agents and smart search, built on a foundation that holds. (Weeks 6–8+)"
+        "label": "PILOT",
+        "title": "No Call Forgotten.",
+        "subtitle": "90 days, cancel anytime. A text for the caller, one callback list for your team."
       }
     ]
   },
   "revenueOpportunities": {
-    "eyebrow": "Free 30-Minute Call",
-    "title": "3 Revenue Opportunities, Mapped to Your Business",
-    "subtitle": "On a free 30-minute call, I map 3 ways automation or AI could unlock revenue or time in your business.",
+    "eyebrow": "Free, 30 minutes",
+    "title": "Your Front Desk Review",
+    "subtitle": "One page, built from your numbers.",
     "items": [
       {
-        "title": "Slow Follow-Up Leaks Revenue",
-        "description": "Leads wait hours or days for a reply — and you lose deals."
+        "title": "What you already pay for",
+        "description": "The software features sitting unused."
       },
       {
-        "title": "Manual Work Locks Capacity",
-        "description": "Your best people lose hours to data entry and admin."
+        "title": "Where your calls get lost",
+        "description": "Your call logs, or a one-week tally at the desk."
       },
       {
-        "title": "Demand Missed After Hours",
-        "description": "Calls and messages after hours sit unanswered until Monday."
+        "title": "Where your information travels",
+        "description": "Which tools receive it and who has access."
       }
     ],
-    "process": "On the call, I learn how your business runs, then map 3 opportunities specific to it — no pitch.",
-    "eligibility": "This fits businesses with 5 to 50 people who've outgrown spreadsheets. A quick form confirms fit first.",
-    "fineprint": "The 3 opportunities are yours, whether or not we work together."
+    "process": "You leave with 3 fixes for Monday, even if you never buy anything.",
+    "eligibility": "For private clinics in Quebec. A short form confirms it's relevant for you.",
+    "fineprint": "The Review is yours. No patient information is needed."
   },
   "whyWorkWithMe": {
-    "title": "I make what you already own work together.",
-    "description": "Not more software — systems that actually work together, and a team that trusts them. Developer, systems architect, bilingual (FR/EN). Not an agency. Just results.",
+    "title": "A local developer. Not an agency.",
+    "description": "Developer and systems architect, bilingual. I work with what your clinic already uses, and you always talk to the same person.",
     "stats": {
       "years": {
         "value": "5+",
-        "label": "Years automating service businesses"
+        "label": "Years automating businesses"
       },
       "projects": {
         "value": "20+",
         "label": "Companies I've worked with"
       },
       "timeSaved": {
-        "value": "15h+",
-        "label": "Given back per client weekly"
+        "value": "0",
+        "label": "Access to your practice software"
       }
     }
   },
   "cta": {
-    "title": "You've outgrown your systems. Let's plug the leak.",
-    "description": "30 minutes, zero pitch. I map 3 revenue or time opportunities specific to your business — yours whether we work together or not."
+    "title": "Start by seeing what it costs you.",
+    "description": "30 minutes, free, no pitch. Your Front Desk Review and 3 fixes for Monday, whether we work together or not."
+  },
+  "privacy": {
+    "eyebrow": "Your data",
+    "title": "I won't tell you you're compliant.",
+    "subtitle": "I show you where your data goes and give you the facts for your privacy impact assessment.",
+    "doTitle": "What I do",
+    "do": [
+      "The text contains no health information.",
+      "A person on your team always makes the callback.",
+      "I work without access to your practice software.",
+      "Accounts are in your clinic's name, with a written exit plan."
+    ],
+    "dontTitle": "What I don't do",
+    "dont": [
+      "I'm not a lawyer and I don't give compliance opinions.",
+      "I don't replace your front desk with a robot.",
+      "I don't touch your clinical records.",
+      "I don't promise numbers your logs don't show."
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "question": "Is a robot answering the phone?",
+        "answer": "No. Your team answers and calls back. The system only handles the calls that slip through."
+      },
+      {
+        "question": "I'm already on Jane or GOrendezvous.",
+        "answer": "Great, we start there. I look at what your plan includes and what's still turned off. I don't replace your software."
+      },
+      {
+        "question": "I use different software.",
+        "answer": "The Review still works. For the next steps, I check what your software allows first and tell you honestly."
+      },
+      {
+        "question": "Will it work with our phone system?",
+        "answer": "It depends on your provider and system. I check before I propose the pilot."
+      },
+      {
+        "question": "Will my team resist?",
+        "answer": "The front desk is involved from the Review on. Nothing changes in their work until we've looked at it with them."
+      },
+      {
+        "question": "What if I want to stop?",
+        "answer": "You can cancel the pilot anytime. Accounts are in your name and the exit plan is written."
+      },
+      {
+        "question": "Are you a lawyer?",
+        "answer": "No. I document the facts. Your privacy officer or legal advisor decides."
+      }
+    ]
   }
 }

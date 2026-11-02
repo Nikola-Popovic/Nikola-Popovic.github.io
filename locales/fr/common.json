@@ -1,9 +1,9 @@
 {
   "bookingModal": {
-    "button": "Je veux mes 3 opportunités",
-    "shortened": "Mes 3 opportunités gratuites",
-    "revenueOpportunities": "Montre-moi mes 3 opportunités",
-    "ctaPrimary": "Réserver mon appel gratuit"
+    "button": "Alléger ma réception",
+    "shortened": "Alléger ma réception",
+    "revenueOpportunities": "Réserver mon Bilan",
+    "ctaPrimary": "Réserver mon Bilan gratuit"
   },
   "navbar": {
     "home": "Accueil",
@@ -11,7 +11,7 @@
     "product": "Libsante",
     "blog": "Blog",
     "blogTooltip": "En construction...",
-    "reserve": "Mes 3 opportunités",
+    "reserve": "Mon Bilan gratuit",
     "servicesMenu": {
       "oneWeekOffer": "Offre Une Semaine",
       "growthPartnership": "Partenariat de Croissance",
@@ -27,7 +27,7 @@
     "copyright": "© {{year}} Nikola Popovic. Tous droits réservés.",
     "links": {
       "privacy": "Politique de confidentialité",
-      "terms": "Conditions de service",
+      "terms": "Conditions d'utilisation",
       "cookies": "Paramètres des cookies"
     }
   },

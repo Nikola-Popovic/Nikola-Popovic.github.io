@@ -5,12 +5,12 @@
       "subtitle": "Pour savoir à qui je vais parler."
     },
     "business": {
-      "title": "Votre entreprise",
+      "title": "Votre clinique",
       "subtitle": "Un bref portrait pour préparer notre appel."
     },
     "pain": {
-      "title": "Ce qui vous ralentit",
-      "subtitle": "Plus vous êtes précis, plus notre appel sera utile."
+      "title": "Ce qui déborde à la réception",
+      "subtitle": "N'inscrivez aucune information sur un patient."
     }
   },
   "progress": "Étape {{current}} sur {{total}}",
@@ -19,24 +19,24 @@
     "lastName": "Nom",
     "email": "Courriel",
     "phone": "Téléphone",
-    "company": "Nom de l'entreprise",
-    "website": "Site web de l'entreprise",
-    "revenue": "Chiffre d'affaires annuel",
+    "company": "Nom de la clinique",
+    "website": "Site web de la clinique",
+    "revenue": "Chiffre d'affaires annuel de la clinique",
     "teamSize": "Taille de l'équipe",
     "painAreas": "Où est-ce que ça fait le plus mal?",
     "painAreasHint": "Choisissez tout ce qui s'applique",
-    "painDescription": "Décrivez le processus qui vous prend le plus de temps",
+    "painDescription": "Quel logiciel utilisez-vous, et qu'est-ce qui déborde le plus?",
     "painCost": "Qu'est-ce que ça vous a coûté jusqu'ici?",
     "painCostHint": "Choisissez tout ce qui s'applique"
   },
   "placeholders": {
     "firstName": "Julie",
     "lastName": "Tremblay",
-    "email": "julie@entreprise.com",
+    "email": "julie@maclinique.ca",
     "phone": "514 555-1234",
-    "company": "Acme inc.",
-    "website": "acme.com",
-    "painDescription": "ex. Chaque nouveau lead est copié à la main du site web vers le CRM, puis dans un tableur pour le suivi..."
+    "company": "Ma clinique",
+    "website": "maclinique.ca",
+    "painDescription": "ex. On est sur Jane. Le téléphone sonne pendant les traitements et les rappels se font le soir..."
   },
   "options": {
     "revenue": {
@@ -54,28 +54,28 @@
       "50_plus": "50+"
     },
     "painAreas": {
-      "lead_followup": "Suivi des leads et ventes",
-      "onboarding": "Intégration des clients",
-      "scheduling": "Prise de rendez-vous",
+      "lead_followup": "Appels manqués et rappels",
+      "onboarding": "Accueil et formulaires des nouveaux patients",
+      "scheduling": "Horaire, annulations et liste d'attente",
       "invoicing": "Facturation et paiements",
-      "data_entry": "Saisie de données / copier-coller entre outils",
-      "support": "Service client",
-      "reporting": "Rapports",
+      "data_entry": "Saisie et copier-coller entre les outils",
+      "support": "Messages et courriels",
+      "reporting": "Suivi et rapports",
       "other": "Autre"
     },
     "painCost": {
-      "missed_leads": "Leads manqués ou suivis trop tard",
+      "missed_leads": "Appels et nouveaux patients perdus",
       "errors": "Erreurs et reprises",
-      "burnout": "Épuisement de l'équipe",
+      "burnout": "Épuisement de la réception",
       "cant_scale": "Impossible de croître sans embaucher",
-      "owner_time": "Mon propre temps"
+      "owner_time": "Mes soirées"
     }
   },
   "errors": {
     "required": "Ce champ est requis.",
     "email": "Entrez un courriel valide.",
     "phone": "Entrez un numéro de téléphone valide (10 chiffres).",
-    "url": "Entrez un site web valide, ex. acme.com."
+    "url": "Entrez un site web valide, ex. maclinique.ca."
   },
   "actions": {
     "next": "Suivant",
@@ -90,7 +90,7 @@
   "slots": {
     "title": "Merci {{firstName}}! Choisissez un moment pour notre appel",
     "titleNoName": "Choisissez un moment pour notre appel",
-    "subtitle": "Un appel vidéo de 25 minutes pour regarder vos processus ensemble.",
+    "subtitle": "Un appel vidéo pour faire votre Bilan de réception ensemble.",
     "loading": "Chargement des disponibilités...",
     "empty": "Aucune disponibilité pour le moment. Écrivez-moi à <mailTo>{{email}}</mailTo> et on trouvera un moment.",
     "timezone": "Heures affichées en {{zone}}",

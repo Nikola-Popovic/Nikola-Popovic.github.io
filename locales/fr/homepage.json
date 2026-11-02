@@ -1,19 +1,35 @@
 {
   "hero": {
-    "eyebrow": "Pour les entreprises de 5 à 50 employés",
-    "title": "Tu as dépassé tes systèmes.",
-    "subtitle": "Pas ton ambition.",
-    "description": "Outils muets entre eux, infos clients éparpillées, équipe noyée dans les e-mails. Je connecte, j'automatise, j'ajoute l'IA — 5 ans, 20+ entreprises, 15h+ récupérées par semaine."
+    "eyebrow": "Pour les propriétaires de clinique",
+    "title": "Votre réception suit enfin.",
+    "subtitle": "Vos données aussi.",
+    "description": "Rappels, annulations, messages: j'allège l'admin et je documente où passe chaque donnée."
   },
   "problemSection": {
-    "hookTitles": ["Tu t'es déjà dit ça ?", "Ça sonne familier ?", "On se le dit tous."],
-    "pains": [
-      { "main": "« Où est le dossier du client ? »", "aside": "Dans 5 outils. Aucun à jour." },
-      { "main": "« J'ai pas eu le temps. »", "aside": "La moitié de la journée est partie en e-mails." },
-      { "main": "« On a un outil pour ça. »", "aside": "Il ne parle à aucun des 5 autres." },
-      { "main": "« Comment on faisait, déjà ? »", "aside": "Nulle part d'écrit." }
+    "hookTitles": [
+      "Ça vous parle?",
+      "Chez vous aussi?",
+      "Un mardi ordinaire."
     ],
-    "closing": "Pas un problème technique. Une facture que tu ne vois pas."
+    "pains": [
+      {
+        "main": "« Le 14 h vient d'annuler. On appelle qui? »",
+        "aside": "Personne n'a le temps de chercher."
+      },
+      {
+        "main": "« Elle a écrit sur Messenger ou par courriel? »",
+        "aside": "Le même message, à deux endroits."
+      },
+      {
+        "main": "« Les rappels? Je vais les faire ce soir. »",
+        "aside": "Entre deux patients, ça n'arrive pas."
+      },
+      {
+        "main": "« J'ai juste collé ça dans ChatGPT. Sans le nom. »",
+        "aside": "Le genou, le travail et le village y sont encore."
+      }
+    ],
+    "closing": "Votre réception n'est pas lente. Elle tient tout à bout de bras."
   },
   "servicesSection": {
     "title": "Connecter. Automatiser. Augmenter.",
@@ -53,67 +69,82 @@
     }
   },
   "beforeAfter": {
-    "title": "La Transformation",
+    "title": "Un mardi ordinaire",
     "beforeLabel": "Avant",
     "afterLabel": "Après",
     "rows": [
-      { "before": "6 outils qui ne se parlent pas", "after": "Des outils qui se parlent vraiment" },
-      { "before": "Entrer manuellement des données d'une app à l'autre", "after": "Des automatisations qui s'occupent de ça pour toi" },
-      { "before": "Données clients éparpillées dans des fichiers Excel", "after": "Un CRM, une seule source de vérité" },
-      { "before": "2h par jour sur les e-mails", "after": "Catégorisés et traités automatiquement" },
-      { "before": "\"Comment on fait ça déjà ?\"", "after": "Documenté, reproductible, et automatique" }
+      {
+        "before": "Un appel manqué pendant un traitement",
+        "after": "L'appel est sur la liste et la réception sait qui rappeler"
+      },
+      {
+        "before": "Une annulation à 13 h 30, on cherche qui appeler",
+        "after": "Votre liste d'attente est activée et prête à servir"
+      },
+      {
+        "before": "Chaque rendez-vous passe par le téléphone",
+        "after": "Les patients peuvent réserver en ligne"
+      },
+      {
+        "before": "Un message vocal improvisé",
+        "after": "Un message clair, en français et en anglais"
+      },
+      {
+        "before": "Personne ne sait qui a accès à quoi",
+        "after": "Vous savez où circulent vos renseignements"
+      }
     ]
   },
   "urgency": {
-    "header": "Ta marge a une fuite. {{highlight}}",
-    "highlight": "La saisie manuelle, une heure à la fois."
+    "header": "Deux fuites. {{highlight}}",
+    "highlight": "Des appels qui se perdent. Des données qu'on ne voit plus."
   },
   "howItWorks": {
-    "header": "Trois phases. {{highlight}}",
-    "highlight": "De vrais résultats.",
+    "header": "Trois étapes. {{highlight}}",
+    "highlight": "On commence par ce que vous payez déjà.",
     "steps": [
       {
-        "label": "CARTOGRAPHIER",
-        "title": "D'abord, j'identifie les trous.",
-        "subtitle": "Tu repars avec des gains rapides. (Semaines 1–2)"
+        "label": "BILAN",
+        "title": "Le Bilan de réception.",
+        "subtitle": "Gratuit, 30 minutes. Ce que vous payez sans l'utiliser, où se perdent vos appels et 3 corrections pour lundi."
       },
       {
-        "label": "CONSTRUIRE",
-        "title": "Ensuite, je construis.",
-        "subtitle": "Les systèmes et automatisations prennent forme sous tes yeux. (Semaines 3–6)"
+        "label": "PASSE",
+        "title": "La Passe de réception.",
+        "subtitle": "Une fois, à prix fixe. J'active ce que vous avez déjà et j'écris votre menu téléphonique et votre message vocal."
       },
       {
-        "label": "AMPLIFIER",
-        "title": "Enfin, j'amplifie.",
-        "subtitle": "L'IA prend le relais sur ce qui peut l'être. (Semaines 6–8+)"
+        "label": "PILOTE",
+        "title": "Aucun appel oublié.",
+        "subtitle": "90 jours, annulable en tout temps. Un texto pour l'appelant, une seule liste de rappel pour votre équipe."
       }
     ]
   },
   "revenueOpportunities": {
-    "eyebrow": "Appel gratuit de 30 minutes",
-    "title": "3 opportunités de revenu, propres à ton entreprise",
-    "subtitle": "Lors d'un appel gratuit de 30 minutes, je cartographie 3 façons de gagner du revenu ou du temps.",
+    "eyebrow": "Gratuit, 30 minutes",
+    "title": "Votre Bilan de réception",
+    "subtitle": "Une page, bâtie à partir de vos chiffres.",
     "items": [
       {
-        "title": "Suivis lents, revenu perdu",
-        "description": "Tes prospects attendent des jours — et tu perds des ventes."
+        "title": "Ce que vous payez déjà",
+        "description": "Les fonctions de votre logiciel qui dorment."
       },
       {
-        "title": "Travail manuel, capacité bloquée",
-        "description": "Tes meilleures personnes perdent des heures en saisie et admin."
+        "title": "Où se perdent vos appels",
+        "description": "Vos journaux d'appels ou une semaine de compte à la réception."
       },
       {
-        "title": "Demande manquée hors horaires",
-        "description": "Les appels hors horaires attendent lundi, sans réponse."
+        "title": "Où circulent vos renseignements",
+        "description": "Quels outils les reçoivent et qui y a accès."
       }
     ],
-    "process": "Pendant l'appel, j'apprends comment ton entreprise fonctionne, puis je cartographie 3 opportunités précises. Pas de pitch.",
-    "eligibility": "Ça convient aux entreprises de 5 à 50 personnes. Un court formulaire confirme le fit d'abord.",
-    "fineprint": "Les 3 opportunités sont à toi, qu'on travaille ensemble ou non."
+    "process": "Vous repartez avec 3 corrections à faire lundi, même si vous n'achetez rien.",
+    "eligibility": "Pour les cliniques privées du Québec. Un court formulaire confirme que c'est pertinent pour vous.",
+    "fineprint": "Le Bilan est à vous. Aucune information sur vos patients n'est nécessaire."
   },
   "whyWorkWithMe": {
-    "title": "Je fais fonctionner ensemble ce que tu as déjà.",
-    "description": "Pas plus de logiciels — des systèmes qui fonctionnent vraiment ensemble, et une équipe qui leur fait confiance. Développeur, architecte de systèmes, bilingue (FR/EN). Pas une agence. Juste des résultats.",
+    "title": "Un développeur d'ici. Pas une agence.",
+    "description": "Développeur et architecte de systèmes, bilingue. Je travaille avec ce que votre clinique utilise déjà, et vous parlez toujours à la même personne.",
     "stats": {
       "years": {
         "value": "5+",
@@ -124,13 +155,65 @@
         "label": "Entreprises accompagnées"
       },
       "timeSaved": {
-        "value": "15h+",
-        "label": "Redonnées par client, chaque semaine"
+        "value": "0",
+        "label": "Accès à votre logiciel de gestion"
       }
     }
   },
   "cta": {
-    "title": "Rien à perdre, 3 opportunités à gagner.",
-    "description": "30 minutes, zéro pitch. Je cartographie 3 opportunités de revenu ou de temps propres à ton entreprise — à toi, qu'on travaille ensemble ou non."
+    "title": "Commencez par voir ce que ça vous coûte.",
+    "description": "30 minutes, gratuit, sans pitch. Votre Bilan de réception et 3 corrections pour lundi, que vous travailliez avec moi ou non."
+  },
+  "privacy": {
+    "eyebrow": "Vos données",
+    "title": "Je ne vous dirai pas que vous êtes conforme.",
+    "subtitle": "Je vous montre où vont vos données et je vous remets les faits pour votre EFVP.",
+    "doTitle": "Ce que je fais",
+    "do": [
+      "Le texto ne contient aucune information de santé.",
+      "Une personne de votre équipe rappelle, toujours.",
+      "Je travaille sans accès à votre logiciel de gestion.",
+      "Les comptes sont au nom de votre clinique, avec un plan de sortie écrit."
+    ],
+    "dontTitle": "Ce que je ne fais pas",
+    "dont": [
+      "Je ne suis pas avocat et je ne donne pas d'avis de conformité.",
+      "Je ne remplace pas votre réception par un robot.",
+      "Je ne touche pas à vos dossiers cliniques.",
+      "Je ne promets pas de chiffres que vos journaux ne montrent pas."
+    ]
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "question": "Est-ce un robot qui répond au téléphone?",
+        "answer": "Non. Votre équipe répond et rappelle. Le système s'occupe seulement des appels qui tombent entre deux."
+      },
+      {
+        "question": "Je suis déjà sur Jane ou GOrendezvous.",
+        "answer": "Parfait, on commence là. Je regarde ce que votre forfait inclut et ce qui reste désactivé. Je ne remplace pas votre logiciel."
+      },
+      {
+        "question": "J'utilise un autre logiciel.",
+        "answer": "Le Bilan fonctionne quand même. Pour la suite, je vérifie d'abord ce que votre logiciel permet et je vous le dis franchement."
+      },
+      {
+        "question": "Est-ce que ça marche avec notre téléphone?",
+        "answer": "Ça dépend de votre fournisseur et de votre système. Je le vérifie avant de vous proposer le pilote."
+      },
+      {
+        "question": "Mon équipe va-t-elle résister?",
+        "answer": "La réception participe dès le Bilan. Rien ne change dans son travail sans qu'on l'ait regardé avec elle."
+      },
+      {
+        "question": "Et si je veux arrêter?",
+        "answer": "Le pilote s'annule en tout temps. Les comptes sont à votre nom et le plan de sortie est écrit."
+      },
+      {
+        "question": "Êtes-vous avocat?",
+        "answer": "Non. Je documente les faits. Votre responsable de la protection des renseignements personnels ou votre conseiller juridique décide."
+      }
+    ]
   }
 }

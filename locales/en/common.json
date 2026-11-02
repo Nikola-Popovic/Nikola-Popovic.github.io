@@ -1,9 +1,9 @@
 {
   "bookingModal": {
-    "button": "I Want My 3 Opportunities",
-    "shortened": "Get My 3 Free Opportunities",
-    "revenueOpportunities": "Show Me My 3 Opportunities",
-    "ctaPrimary": "Book My Free 30-Minute Call"
+    "button": "Lighten my front desk",
+    "shortened": "Lighten my front desk",
+    "revenueOpportunities": "Book my Review",
+    "ctaPrimary": "Book my free Review"
   },
   "navbar": {
     "home": "Home",
@@ -11,7 +11,7 @@
     "product": "Libsante",
     "blog": "Blog",
     "blogTooltip": "In construction...",
-    "reserve": "Get My 3 Opportunities",
+    "reserve": "My free Review",
     "servicesMenu": {
       "oneWeekOffer": "One Week Offer",
       "growthPartnership": "Growth Partnership",
@@ -27,7 +27,7 @@
     "copyright": "© {{year}} Nikola Popovic. All rights reserved.",
     "links": {
       "privacy": "Privacy Policy",
-      "terms": "Terms of Service",
+      "terms": "Terms of Use",
       "cookies": "Cookie Settings"
     }
   },

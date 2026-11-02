@@ -8,7 +8,7 @@
   },
   "analytics": {
     "title": "Analytics",
-    "description": "These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously."
+    "description": "These cookies count page views and form steps with PostHog, in the United States. What you type isn't sent."
   },
   "marketing": {
     "title": "Marketing",
@@ -22,4 +22,4 @@
   },
   "learnMore": "Learn More",
   "privacyPolicy": "Privacy Policy"
-} 
+}

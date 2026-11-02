@@ -1,115 +1,164 @@
 {
-    "termsAndConditions": {
-        "title": "Terms and Conditions",
-        "intro": "Welcome to our Terms and Conditions. Please read these carefully before using our website.",
-        "sections": [
-            {
-                "title": "Services Provided",
-                "content": "The Company offers website design, automation structure services, and related consultations. Users may book a 15-minute introductory call through the website.",
-                "items": []
-            },
-            {
-                "title": "Booking Policy",
-                "items": [
-                    "Users are allowed to book up to two 15-minute calls per month. Abuse of this feature may result in account restrictions or denial of service.",
-                    "The Company reserves the right to cancel or reschedule bookings in case of unforeseen circumstances."
-                ]
-            },
-            {
-                "title": "User Obligations",
-                "content": "By using the website, you agree to:",
-                "items": [
-                    "Provide accurate and truthful information.",
-                    "Refrain from unlawful activities while using our website.",
-                    "Respect the intellectual property rights of the Company."
-                ]
-            },
-            {
-                "title": "Liability Limitations",
-                "content": "The website and its services are provided on an \"as is\" basis without warranties of any kind. The Company is not liable for:",
-                "items": [
-                    "Any indirect, incidental, or consequential damages arising from your use of the website or services.",
-                    "Errors, delays, or interruptions in the website’s operation."
-                ]
-            },
-            {
-                "title": "Age Restrictions",
-                "content": "This website is not intended for users under 18 years old. By using this site, you confirm that you are at least 18 years of age.",
-                "items": []
-            },
-            {
-                "title": "Changes to the Terms",
-                "content": "The Company reserves the right to update these Terms at any time. Changes will be effective upon posting to this website. Continued use constitutes acceptance of the revised Terms.",
-                "items": []
-            }
-        ],
-        "contactInfo": {
-            "title": "Contact Information",
-            "content": "For questions or concerns about these Terms, contact us at {{email}}."
-        }
-    },
-    "privacyPolicy": {
-        "title": "Privacy Policy",
-        "lastUpdated": "Last Updated: December 15th, 2024",
-        "intro": "Nikola Popovic (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information.",
-        "sections": [
-            {
-                "title": "Information We Collect",
-                "content": "We collect the following personal data when you interact with our website:",
-                "items": [
-                    "Name",
-                    "Email address",
-                    "Phone number",
-                    "Location"
-                ]
-            },
-            {
-                "title": "How We Use Your Information",
-                "content": "We do not sell, rent, or share your information with third parties. We use your data to:",
-                "items": [
-                    "Provide services, including booking and managing consultations.",
-                    "Respond to your inquiries.",
-                    "Improve our website and services."
-                ]
-            },
-            {
-                "title": "Data Retention",
-                "content": "We store your data for up to 3 years unless you request deletion. After this period, your data will be securely deleted or anonymized.",
-                "items": []
-            },
-            {
-                "title": "Your Rights",
-                "content": "You have the right to:",
-                "items": [
-                    "Access, correct, or delete your personal data.",
-                    "Withdraw consent for data processing.",
-                    "Request a copy of your data or its transfer to another service."
-                ]
-            },
-            {
-                "title": "Data Storage",
-                "content": "Your data is securely stored in our Customer Relationship Management (CRM) system, Lead Connector.",
-                "items": []
-            },
-            {
-                "title": "Cookies and Analytics",
-                "content": "TWe use tools such as Facebook Pixels, Google Tags, and Plausible Analytics to understand website traffic and improve user experience. These tools may collect anonymized browsing data.",
-                "items": []
-            },
-            {
-                "title": "Children’s Privacy",
-                "content": "Our website is not intended for children under 13. We do not knowingly collect data from minors.  If you believe a child has provided personal data, please contact us to delete it.",
-                "items": []
-            },
-            {
-                "title": "Changes to This Policy",
-                "content": "We may update this Privacy Policy to reflect changes in our data practices. Updates will be posted on this page with an updated effective date.",
-                "items": []
-            }
-        ],
-        "contactInfo": {
-            "title": "Contact Information",
-            "content": "For questions or concerns about this Privacy Policy, contact us at {{email}}."
-        }
+  "termsAndConditions": {
+    "title": "Terms of Use",
+    "intro": "These terms apply to your use of this site. Please read them before using it.",
+    "sections": [
+      {
+        "title": "Services",
+        "content": "Nikola Popovic offers automation, tool configuration and website services, along with related consultations, notably for private clinics. The site lets you book a free Front Desk Review call.",
+        "items": []
+      },
+      {
+        "title": "Booking",
+        "items": [
+          "A clinic or business can book one free Review, unless otherwise agreed.",
+          "We may cancel or move a call if something unexpected comes up, or refuse a booking in case of abuse."
+        ]
+      },
+      {
+        "title": "No legal advice",
+        "content": "The Review and our services provide facts and technical recommendations. They are neither legal advice nor a compliance opinion. You remain responsible for your legal and professional obligations.",
+        "items": []
+      },
+      {
+        "title": "Your commitments",
+        "content": "By using the site, you agree to:",
+        "items": [
+          "Provide accurate information.",
+          "Not send any patient information through our forms.",
+          "Not use the site for illegal purposes.",
+          "Respect our intellectual property rights."
+        ]
+      },
+      {
+        "title": "Limitation of liability",
+        "content": "The site is provided as is. To the extent permitted by law, we aren't liable for:",
+        "items": [
+          "Indirect damages arising from your use of the site.",
+          "Errors, delays or interruptions of the site."
+        ]
+      },
+      {
+        "title": "Age",
+        "content": "This site is for people 18 and older.",
+        "items": []
+      },
+      {
+        "title": "Governing law",
+        "content": "These terms are governed by the laws of Quebec and the laws of Canada that apply there.",
+        "items": []
+      },
+      {
+        "title": "Changes",
+        "content": "We may update these terms. Changes apply as soon as they're posted on this page.",
+        "items": []
+      }
+    ],
+    "contactInfo": {
+      "title": "Contact us",
+      "content": "For any question about these terms, write to us at {{email}}."
     }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: November 2, 2026",
+    "intro": "This policy explains what personal information this site collects, why, who receives it and what your rights are. The site is for clinic owners and businesses, not patients. Please don't enter any patient information in our forms.",
+    "sections": [
+      {
+        "title": "Person in charge of personal information",
+        "content": "Nikola Popovic is the person in charge of protecting personal information. You can reach him at admin@nikolapopovic.dev.",
+        "items": []
+      },
+      {
+        "title": "Information we collect",
+        "content": "You give us this information when you fill out the form or book a call:",
+        "items": [
+          "Your contact details: first name, last name, email and phone.",
+          "Your clinic or business: name, website, annual revenue and team size.",
+          "Your needs: the topics you pick and what you write in the free-text field.",
+          "The time of the call you book.",
+          "Technical details sent with the form: language, page address and browser type."
+        ]
+      },
+      {
+        "title": "Why we use it",
+        "content": "We use this information to:",
+        "items": [
+          "Answer your request, prepare your Review and manage your call.",
+          "Send you messages related to your request.",
+          "Protect the form against spam.",
+          "Measure the site and our ads, only if you accepted the related cookies."
+        ]
+      },
+      {
+        "title": "Automated decision",
+        "content": "The booking calendar appears based on the annual revenue you enter: it doesn't appear below $100,000. You then get a reply by email. You can write to us to learn the reasons for this result, correct your information or ask a person to review your request.",
+        "items": []
+      },
+      {
+        "title": "Providers that receive your information",
+        "content": "We don't sell your information. We only share it with the providers needed to run the site and follow up on your request:",
+        "items": [
+          "n8n, on our self-hosted server: receives the form and keeps it in a submissions table.",
+          "LeadConnector (GoHighLevel, United States): contact management and call booking.",
+          "ClickUp (United States): tracking your request.",
+          "Slack (United States): internal notice with a summary of your request.",
+          "Google (United States): emails related to your request.",
+          "Cloudflare (United States): network, form security and cookie-free site performance measurement.",
+          "GitHub Pages (United States): site hosting, which may process your IP address.",
+          "Senja (outside Canada): displaying testimonials, which may process your IP address when you visit.",
+          "PostHog (United States): statistics, only if you accept analytics cookies.",
+          "Meta (United States): ad measurement, only if you accept marketing cookies."
+        ]
+      },
+      {
+        "title": "Information held outside Quebec",
+        "content": "Several of these providers are located outside Quebec, so your information may be stored there or pass through there. To ask about a specific provider, write to us.",
+        "items": []
+      },
+      {
+        "title": "Cookies and statistics",
+        "content": "No analytics or marketing cookie is turned on without your agreement. You can change your choice anytime with the Cookie Settings link at the bottom of the page.",
+        "items": [
+          "Necessary: remember your language and cookie choices.",
+          "Analytics (PostHog): count page views and form steps. What you type isn't sent, and sessions aren't recorded.",
+          "Marketing (Meta Pixel): measure our ads. If you accept them and fill out the form, your email, phone and first name may be sent to Meta in hashed form."
+        ]
+      },
+      {
+        "title": "Retention",
+        "content": "We keep your information for up to 3 years after our last exchange, unless you ask us to delete it sooner or the law requires us to keep it longer. It is then deleted or anonymized.",
+        "items": []
+      },
+      {
+        "title": "Your rights",
+        "content": "You can write to us to:",
+        "items": [
+          "Access your personal information or have it corrected.",
+          "Withdraw your consent or ask us to delete your information.",
+          "Get your information in a structured format.",
+          "File a complaint. If you aren't satisfied with our answer, you can contact Quebec's Commission d'accès à l'information."
+        ]
+      },
+      {
+        "title": "Security",
+        "content": "We limit access to your information to the people and providers who need it. No system is 100% secure. If a confidentiality incident presents a risk of serious injury, we'll notify you as the law requires.",
+        "items": []
+      },
+      {
+        "title": "Minors",
+        "content": "This site is for adults. We don't knowingly collect information about people under 18.",
+        "items": []
+      },
+      {
+        "title": "Changes",
+        "content": "We'll post any update on this page with its new date.",
+        "items": []
+      }
+    ],
+    "contactInfo": {
+      "title": "Contact us",
+      "content": "For any question about this policy, write to us at {{email}}."
+    }
+  }
 }

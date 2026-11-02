@@ -1,115 +1,164 @@
 {
-    "termsAndConditions": {
-        "title": "Termes et Conditions",
-        "intro": "Bienvenue dans nos Termes et Conditions. Veuillez les lire attentivement avant d'utiliser notre site web.",
-        "sections": [
-            {
-                "title": "Services Offerts",
-                "content": "L'Entreprise propose des services de conception de sites web, de structures d'automatisation et des consultations associées. Les utilisateurs peuvent réserver un appel d'introduction de 15 minutes via le site web.",
-                "items": []
-            },
-            {
-                "title": "Politique de Réservation",
-                "items": [
-                    "Les utilisateurs peuvent réserver jusqu'à deux appels de 15 minutes par mois. L'abus de cette fonctionnalité peut entraîner des restrictions de compte ou un refus de service.",
-                    "L'Entreprise se réserve le droit d'annuler ou de reprogrammer les réservations en cas de circonstances imprévues."
-                ]
-            },
-            {
-                "title": "Obligations de l'Utilisateur",
-                "content": "En utilisant le site web, vous acceptez de :",
-                "items": [
-                    "Fournir des informations exactes et véridiques.",
-                    "Vous abstenir de toute activité illégale lors de l'utilisation de notre site web.",
-                    "Respecter les droits de propriété intellectuelle de l'Entreprise."
-                ]
-            },
-            {
-                "title": "Limitations de Responsabilité",
-                "content": "Le site web et ses services sont fournis \"en l'état\" sans aucune garantie. L'Entreprise n'est pas responsable de :",
-                "items": [
-                    "Tout dommage indirect, accessoire ou consécutif découlant de votre utilisation du site web ou des services.",
-                    "Des erreurs, retards ou interruptions dans le fonctionnement du site web."
-                ]
-            },
-            {
-                "title": "Restrictions d'Âge",
-                "content": "Ce site web n'est pas destiné aux utilisateurs de moins de 18 ans. En utilisant ce site, vous confirmez que vous avez au moins 18 ans.",
-                "items": []
-            },
-            {
-                "title": "Modifications des Termes",
-                "content": "L'Entreprise se réserve le droit de mettre à jour ces Termes à tout moment. Les modifications entreront en vigueur dès leur publication sur ce site web. L'utilisation continue constitue une acceptation des Termes révisés.",
-                "items": []
-            }
-        ],
-        "contactInfo": {
-            "title": "Informations de Contact",
-            "content": "Pour toute question ou préoccupation concernant ces Termes, contactez-nous à {{email}}."
-        }
-    },
-    "privacyPolicy": {
-        "title": "Politique de Confidentialité",
-        "lastUpdated": "Dernière mise à jour : 15 décembre 2024",
-        "intro": "Nikola Popovic (« nous », « notre » ou « nos ») s'engage à protéger votre vie privée. Cette Politique de Confidentialité explique comment nous collectons, utilisons et protégeons vos informations personnelles.",
-        "sections": [
-            {
-                "title": "Informations que Nous Collectons",
-                "content": "Nous collectons les données personnelles suivantes lorsque vous interagissez avec notre site web :",
-                "items": [
-                    "Nom",
-                    "Adresse e-mail",
-                    "Numéro de téléphone",
-                    "Localisation"
-                ]
-            },
-            {
-                "title": "Comment Nous Utilisons Vos Informations",
-                "content": "Nous ne vendons, louons ou partageons pas vos informations avec des tiers. Nous utilisons vos données pour :",
-                "items": [
-                    "Fournir des services, y compris la réservation et la gestion des consultations.",
-                    "Répondre à vos demandes.",
-                    "Améliorer notre site web et nos services."
-                ]
-            },
-            {
-                "title": "Conservation des Données",
-                "content": "Nous conservons vos données pendant une période maximale de 3 ans, sauf si vous demandez leur suppression. Après cette période, vos données seront supprimées ou anonymisées de manière sécurisée.",
-                "items": []
-            },
-            {
-                "title": "Vos Droits",
-                "content": "Vous avez le droit de :",
-                "items": [
-                    "Accéder, corriger ou supprimer vos données personnelles.",
-                    "Retirer votre consentement pour le traitement des données.",
-                    "Demander une copie de vos données ou leur transfert vers un autre service."
-                ]
-            },
-            {
-                "title": "Stockage des Données",
-                "content": "Vos données sont stockées de manière sécurisée dans notre système de gestion de la relation client (CRM), Lead Connector.",
-                "items": []
-            },
-            {
-                "title": "Cookies et Analyses",
-                "content": "Nous utilisons des outils tels que Facebook Pixels, Google Tags et Plausible Analytics pour comprendre le trafic du site web et améliorer l'expérience utilisateur. Ces outils peuvent collecter des données de navigation anonymisées.",
-                "items": []
-            },
-            {
-                "title": "Confidentialité des Enfants",
-                "content": "Notre site web n'est pas destiné aux enfants de moins de 13 ans. Nous ne collectons pas intentionnellement de données provenant de mineurs. Si vous pensez qu'un enfant a fourni des données personnelles, veuillez nous contacter pour les supprimer.",
-                "items": []
-            },
-            {
-                "title": "Modifications de cette Politique",
-                "content": "Nous pouvons mettre à jour cette Politique de Confidentialité pour refléter les changements dans nos pratiques de données. Les mises à jour seront publiées sur cette page avec une nouvelle date de mise à jour.",
-                "items": []
-            }
-        ],
-        "contactInfo": {
-            "title": "Informations de Contact",
-            "content": "Pour toute question ou préoccupation concernant cette Politique de Confidentialité, contactez-nous à {{email}}."
-        }
+  "termsAndConditions": {
+    "title": "Conditions d'utilisation",
+    "intro": "Ces conditions s'appliquent à votre utilisation de ce site. Veuillez les lire avant de l'utiliser.",
+    "sections": [
+      {
+        "title": "Services",
+        "content": "Nikola Popovic offre des services d'automatisation, de configuration d'outils et de sites web, ainsi que des consultations connexes, notamment pour les cliniques privées. Le site permet de réserver un appel gratuit de Bilan de réception.",
+        "items": []
+      },
+      {
+        "title": "Réservation",
+        "items": [
+          "Une clinique ou entreprise peut réserver un seul Bilan gratuit, sauf entente contraire.",
+          "Nous pouvons annuler ou déplacer un appel en cas d'imprévu, ou refuser une réservation en cas d'abus."
+        ]
+      },
+      {
+        "title": "Aucun avis juridique",
+        "content": "Le Bilan et nos services fournissent des faits et des recommandations techniques. Ils ne constituent ni un avis juridique ni un avis de conformité. Vous demeurez responsable de vos obligations légales et professionnelles.",
+        "items": []
+      },
+      {
+        "title": "Vos engagements",
+        "content": "En utilisant le site, vous acceptez de :",
+        "items": [
+          "Fournir des renseignements exacts.",
+          "Ne transmettre aucune information sur un patient dans nos formulaires.",
+          "Ne pas utiliser le site à des fins illégales.",
+          "Respecter nos droits de propriété intellectuelle."
+        ]
+      },
+      {
+        "title": "Limitation de responsabilité",
+        "content": "Le site est fourni tel quel. Dans la mesure permise par la loi, nous ne sommes pas responsables :",
+        "items": [
+          "Des dommages indirects découlant de l'utilisation du site.",
+          "Des erreurs, retards ou interruptions du site."
+        ]
+      },
+      {
+        "title": "Âge",
+        "content": "Ce site s'adresse aux personnes de 18 ans et plus.",
+        "items": []
+      },
+      {
+        "title": "Droit applicable",
+        "content": "Ces conditions sont régies par les lois du Québec et les lois du Canada qui s'y appliquent.",
+        "items": []
+      },
+      {
+        "title": "Modifications",
+        "content": "Nous pouvons mettre ces conditions à jour. Les changements s'appliquent dès leur publication sur cette page.",
+        "items": []
+      }
+    ],
+    "contactInfo": {
+      "title": "Nous joindre",
+      "content": "Pour toute question sur ces conditions, écrivez-nous à {{email}}."
     }
+  },
+  "privacyPolicy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : 2 novembre 2026",
+    "intro": "Cette politique explique quels renseignements personnels ce site recueille, pourquoi, à qui ils sont communiqués et quels sont vos droits. Le site s'adresse aux propriétaires de clinique et aux entreprises, pas aux patients. N'inscrivez aucune information sur un patient dans nos formulaires.",
+    "sections": [
+      {
+        "title": "Responsable de la protection des renseignements personnels",
+        "content": "Nikola Popovic est responsable de la protection des renseignements personnels. Vous pouvez le joindre à admin@nikolapopovic.dev.",
+        "items": []
+      },
+      {
+        "title": "Renseignements que nous recueillons",
+        "content": "Vous nous fournissez ces renseignements en remplissant le formulaire ou en réservant un appel :",
+        "items": [
+          "Vos coordonnées : prénom, nom, courriel et téléphone.",
+          "Votre clinique ou entreprise : nom, site web, chiffre d'affaires annuel et taille de l'équipe.",
+          "Vos besoins : les sujets choisis et ce que vous écrivez dans le champ libre.",
+          "Le moment de l'appel réservé.",
+          "Des renseignements techniques envoyés avec le formulaire : langue, adresse de la page et type de navigateur."
+        ]
+      },
+      {
+        "title": "Pourquoi nous les utilisons",
+        "content": "Nous utilisons ces renseignements pour :",
+        "items": [
+          "Répondre à votre demande, préparer votre Bilan et gérer votre appel.",
+          "Vous envoyer les messages liés à votre demande.",
+          "Protéger le formulaire contre le pourriel.",
+          "Mesurer le site et nos publicités, seulement si vous avez accepté les cookies concernés."
+        ]
+      },
+      {
+        "title": "Décision automatisée",
+        "content": "Le calendrier de réservation s'affiche selon le chiffre d'affaires annuel que vous indiquez : il ne s'affiche pas sous 100 000 $. Vous recevez alors une réponse par courriel. Vous pouvez nous écrire pour connaître les raisons de ce résultat, faire corriger vos renseignements ou demander qu'une personne revoie votre demande.",
+        "items": []
+      },
+      {
+        "title": "Fournisseurs qui reçoivent vos renseignements",
+        "content": "Nous ne vendons pas vos renseignements. Nous les communiquons seulement aux fournisseurs nécessaires au fonctionnement du site et au suivi de votre demande :",
+        "items": [
+          "n8n, sur notre serveur auto-hébergé : reçoit le formulaire et le conserve dans une table de soumissions.",
+          "LeadConnector (GoHighLevel, États-Unis) : gestion des contacts et réservation des appels.",
+          "ClickUp (États-Unis) : suivi de votre demande.",
+          "Slack (États-Unis) : avis interne avec le résumé de votre demande.",
+          "Google (États-Unis) : courriels liés à votre demande.",
+          "Cloudflare (États-Unis) : réseau, sécurité du formulaire et mesure de performance du site, sans cookie.",
+          "GitHub Pages (États-Unis) : hébergement du site, qui peut traiter votre adresse IP.",
+          "Senja (hors du Canada) : affichage des témoignages, qui peut traiter votre adresse IP lors de la visite.",
+          "PostHog (États-Unis) : statistiques, seulement si vous acceptez les cookies analytiques.",
+          "Meta (États-Unis) : mesure publicitaire, seulement si vous acceptez les cookies marketing."
+        ]
+      },
+      {
+        "title": "Renseignements conservés hors du Québec",
+        "content": "Plusieurs de ces fournisseurs sont situés hors du Québec, donc vos renseignements peuvent y être conservés ou y circuler. Pour nous renseigner sur un fournisseur précis, écrivez-nous.",
+        "items": []
+      },
+      {
+        "title": "Cookies et statistiques",
+        "content": "Aucun cookie analytique ou marketing n'est activé sans votre accord. Vous pouvez changer votre choix en tout temps avec le lien Paramètres des cookies, au bas de la page.",
+        "items": [
+          "Nécessaires : retiennent votre langue et vos choix de cookies.",
+          "Analytiques (PostHog) : comptent les pages vues et les étapes du formulaire. Les textes que vous écrivez ne sont pas envoyés, et les sessions ne sont pas enregistrées.",
+          "Marketing (Meta Pixel) : mesurent nos publicités. Si vous les acceptez et remplissez le formulaire, votre courriel, votre téléphone et votre prénom peuvent être transmis à Meta sous forme chiffrée par hachage."
+        ]
+      },
+      {
+        "title": "Conservation",
+        "content": "Nous conservons vos renseignements pendant au plus 3 ans après notre dernier échange, sauf si vous demandez leur suppression plus tôt ou si la loi nous oblige à les garder plus longtemps. Ils sont ensuite supprimés ou anonymisés.",
+        "items": []
+      },
+      {
+        "title": "Vos droits",
+        "content": "Vous pouvez nous écrire pour :",
+        "items": [
+          "Accéder à vos renseignements personnels ou les faire corriger.",
+          "Retirer votre consentement ou demander la suppression de vos renseignements.",
+          "Obtenir vos renseignements dans un format structuré.",
+          "Déposer une plainte. Si vous n'êtes pas satisfait de notre réponse, vous pouvez vous adresser à la Commission d'accès à l'information du Québec."
+        ]
+      },
+      {
+        "title": "Sécurité",
+        "content": "Nous limitons l'accès à vos renseignements aux personnes et aux fournisseurs qui en ont besoin. Aucun système n'est sûr à 100 %. En cas d'incident de confidentialité présentant un risque de préjudice sérieux, nous vous aviserons comme la loi l'exige.",
+        "items": []
+      },
+      {
+        "title": "Personnes mineures",
+        "content": "Ce site s'adresse aux adultes. Nous ne recueillons pas sciemment de renseignements sur des personnes de moins de 18 ans.",
+        "items": []
+      },
+      {
+        "title": "Modifications",
+        "content": "Nous publierons toute mise à jour sur cette page, avec sa nouvelle date.",
+        "items": []
+      }
+    ],
+    "contactInfo": {
+      "title": "Nous joindre",
+      "content": "Pour toute question sur cette politique, écrivez-nous à {{email}}."
+    }
+  }
 }

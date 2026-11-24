@@ -1,74 +1,46 @@
 {
   "steps": {
-    "you": {
-      "title": "Let's start with you",
-      "subtitle": "So I know who I'll be talking to."
-    },
-    "business": {
-      "title": "Your clinic",
-      "subtitle": "A quick snapshot to prepare our call."
-    },
     "pain": {
       "title": "What's overflowing at the front desk",
       "subtitle": "Please don't enter any patient information."
+    },
+    "contact": {
+      "title": "Your clinic",
+      "subtitle": "So I can send you the invite and prepare our call."
     }
   },
   "progress": "Step {{current}} of {{total}}",
   "fields": {
+    "painArea": "What overflows the most at the front desk?",
+    "painDescription": "In one sentence, what's happening?",
     "firstName": "First name",
-    "lastName": "Last name",
     "email": "Email",
     "phone": "Phone number",
+    "phoneHint": "only for a text reminder before the call",
     "company": "Clinic name",
-    "website": "Clinic website",
-    "revenue": "Clinic annual revenue",
-    "teamSize": "Team size",
-    "painAreas": "Where does it hurt the most?",
-    "painAreasHint": "Select all that apply",
-    "painDescription": "What software do you use, and what overflows the most?",
-    "painCost": "What has it cost you so far?",
-    "painCostHint": "Select all that apply"
+    "practitioners": "How many practitioners at the clinic?"
   },
   "placeholders": {
+    "painDescription": "e.g. We're on Jane. The phone rings during treatments and we call back at night...",
     "firstName": "Jane",
-    "lastName": "Smith",
-    "email": "julie@myclinic.ca",
+    "email": "jane@myclinic.ca",
     "phone": "514 555-1234",
-    "company": "My clinic",
-    "website": "myclinic.ca",
-    "painDescription": "e.g. We're on Jane. The phone rings during treatments and recalls happen at night..."
+    "company": "My clinic"
   },
   "options": {
-    "revenue": {
-      "under_100k": "Under $100k",
-      "100k_300k": "$100k - $300k",
-      "300k_1m": "$300k - $1M",
-      "1m_5m": "$1M - $5M",
-      "5m_plus": "$5M+"
-    },
-    "teamSize": {
-      "solo": "Just me",
-      "2_5": "2-5",
-      "6_20": "6-20",
-      "21_50": "21-50",
-      "50_plus": "50+"
-    },
-    "painAreas": {
-      "lead_followup": "Missed calls and callbacks",
-      "onboarding": "New patient intake and forms",
-      "scheduling": "Schedule, cancellations and waitlist",
-      "invoicing": "Invoicing and payments",
-      "data_entry": "Data entry and copy-paste between tools",
-      "support": "Messages and email",
-      "reporting": "Tracking and reports",
+    "painArea": {
+      "missed_calls": "Missed calls and callbacks",
+      "intake_forms": "New patient forms",
+      "cancellations": "Cancellations and waitlist",
+      "no_shows": "No-shows",
+      "messages": "Messages and email",
       "other": "Other"
     },
-    "painCost": {
-      "missed_leads": "Lost calls and new patients",
-      "errors": "Errors and rework",
-      "burnout": "Front desk burnout",
-      "cant_scale": "Can't grow without hiring",
-      "owner_time": "My evenings"
+    "practitioners": {
+      "solo": "Just me",
+      "2_3": "2-3",
+      "4_9": "4-9",
+      "10_plus": "10+"
     }
   },
   "errors": {

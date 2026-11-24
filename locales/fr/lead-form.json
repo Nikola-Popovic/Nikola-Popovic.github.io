@@ -1,74 +1,46 @@
 {
   "steps": {
-    "you": {
-      "title": "Commençons par vous",
-      "subtitle": "Pour savoir à qui je vais parler."
-    },
-    "business": {
-      "title": "Votre clinique",
-      "subtitle": "Un bref portrait pour préparer notre appel."
-    },
     "pain": {
       "title": "Ce qui déborde à la réception",
       "subtitle": "N'inscrivez aucune information sur un patient."
+    },
+    "contact": {
+      "title": "Votre clinique",
+      "subtitle": "Pour vous envoyer l'invitation et préparer notre appel."
     }
   },
   "progress": "Étape {{current}} sur {{total}}",
   "fields": {
+    "painArea": "Qu'est-ce qui déborde le plus à la réception?",
+    "painDescription": "En une phrase, qu'est-ce qui se passe?",
     "firstName": "Prénom",
-    "lastName": "Nom",
     "email": "Courriel",
     "phone": "Téléphone",
+    "phoneHint": "seulement pour un rappel par texto avant l'appel",
     "company": "Nom de la clinique",
-    "website": "Site web de la clinique",
-    "revenue": "Chiffre d'affaires annuel de la clinique",
-    "teamSize": "Taille de l'équipe",
-    "painAreas": "Où est-ce que ça fait le plus mal?",
-    "painAreasHint": "Choisissez tout ce qui s'applique",
-    "painDescription": "Quel logiciel utilisez-vous, et qu'est-ce qui déborde le plus?",
-    "painCost": "Qu'est-ce que ça vous a coûté jusqu'ici?",
-    "painCostHint": "Choisissez tout ce qui s'applique"
+    "practitioners": "Combien de praticiens dans la clinique?"
   },
   "placeholders": {
+    "painDescription": "ex. On est sur Jane. Le téléphone sonne pendant les traitements et on rappelle le soir...",
     "firstName": "Julie",
-    "lastName": "Tremblay",
     "email": "julie@maclinique.ca",
     "phone": "514 555-1234",
-    "company": "Ma clinique",
-    "website": "maclinique.ca",
-    "painDescription": "ex. On est sur Jane. Le téléphone sonne pendant les traitements et les rappels se font le soir..."
+    "company": "Ma clinique"
   },
   "options": {
-    "revenue": {
-      "under_100k": "Moins de 100 k$",
-      "100k_300k": "100 k$ - 300 k$",
-      "300k_1m": "300 k$ - 1 M$",
-      "1m_5m": "1 M$ - 5 M$",
-      "5m_plus": "5 M$ et +"
-    },
-    "teamSize": {
-      "solo": "Juste moi",
-      "2_5": "2-5",
-      "6_20": "6-20",
-      "21_50": "21-50",
-      "50_plus": "50+"
-    },
-    "painAreas": {
-      "lead_followup": "Appels manqués et rappels",
-      "onboarding": "Accueil et formulaires des nouveaux patients",
-      "scheduling": "Horaire, annulations et liste d'attente",
-      "invoicing": "Facturation et paiements",
-      "data_entry": "Saisie et copier-coller entre les outils",
-      "support": "Messages et courriels",
-      "reporting": "Suivi et rapports",
+    "painArea": {
+      "missed_calls": "Appels manqués et retours d'appels",
+      "intake_forms": "Formulaires des nouveaux patients",
+      "cancellations": "Annulations et liste d'attente",
+      "no_shows": "Rendez-vous oubliés (no-shows)",
+      "messages": "Messages et courriels",
       "other": "Autre"
     },
-    "painCost": {
-      "missed_leads": "Appels et nouveaux patients perdus",
-      "errors": "Erreurs et reprises",
-      "burnout": "Épuisement de la réception",
-      "cant_scale": "Impossible de croître sans embaucher",
-      "owner_time": "Mes soirées"
+    "practitioners": {
+      "solo": "Juste moi",
+      "2_3": "2-3",
+      "4_9": "4-9",
+      "10_plus": "10 et +"
     }
   },
   "errors": {
